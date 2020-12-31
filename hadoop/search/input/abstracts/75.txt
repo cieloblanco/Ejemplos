@@ -1,0 +1,2 @@
+Blockchain-Oriented Software Engineering: Challenges and New Directions
+In this work, we acknowledge the need for software engineers to devise specialized tools and techniques for blockchain-oriented software development. Ensuring effective testing activities, enhancing collaboration in large teams, and facilitating the development of smart contracts all appear as key factors in the future of blockchain-oriented software development.

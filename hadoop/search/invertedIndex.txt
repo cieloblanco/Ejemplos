@@ -1,0 +1,3484 @@
+&	88.txt   
+-	12.txt
+081	100.txt
+0f	46.txt
+1	87.txt 37.txt 64.txt
+102	66.txt
+107	93.txt
+10th	20.txt
+11	66.txt 29.txt 87.txt
+110	15.txt
+12	82.txt 87.txt 35.txt 89.txt
+120	100.txt
+1274	89.txt
+131770	99.txt
+144	46.txt
+148	14.txt
+15	89.txt
+150m	76.txt
+18	35.txt
+1956	26.txt
+1971	40.txt
+1973	40.txt 
+1977	40.txt
+1980s	14.txt
+1996	56.txt
+1997	70.txt
+2	64.txt 37.txt 72.txt 87.txt 97.txt  
+20	51.txt
+2000	56.txt
+2006	77.txt 1.txt
+2010	61.txt 66.txt
+2011	68.txt 
+2013	89.txt
+2014	89.txt
+2015	100.txt 4.txt 76.txt
+2016	66.txt 39.txt 68.txt  87.txt
+2017	61.txt 70.txt 76.txt
+2018	20.txt
+2068	20.txt 
+2220	87.txt
+25	78.txt
+264	46.txt
+28	61.txt
+2d	37.txt
+3	37.txt 87.txt 64.txt 72.txt
+30	70.txt 62.txt
+30th	100.txt
+30–90°	45.txt
+31c	89.txt
+3d	37.txt 73.txt 43.txt 
+4	72.txt
+4-dof	44.txt
+40	62.txt
+401	100.txt
+417	66.txt
+44	100.txt
+47	71.txt
+4th	100.txt
+5	72.txt
+5-steps	58.txt
+50	70.txt
+500k	76.txt
+50th	80.txt
+521	100.txt
+55	68.txt
+5600	81.txt
+6	36.txt 72.txt
+60	62.txt
+7	87.txt
+73	87.txt
+7385	81.txt
+78°	62.txt
+808	66.txt
+80°	69.txt
+823	9.txt
+8452	58.txt
+85	81.txt
+85°	62.txt
+876	9.txt
+9	36.txt 
+91	66.txt
+9181	58.txt
+92	46.txt
+9869	36.txt
+999	53.txt
+[]	60.txt
+a	60.txt   46.txt 58.txt        81.txt   87.txt 89.txt 13.txt  14.txt       67.txt          72.txt  68.txt  51.txt  40.txt       21.txt   54.txt    66.txt    70.txt     71.txt      43.txt    92.txt  20.txt   76.txt          24.txt    55.txt         96.txt   97.txt     79.txt   49.txt      80.txt     18.txt      52.txt     59.txt       56.txt          26.txt    17.txt 47.txt  12.txt    48.txt    10.txt      61.txt      77.txt  86.txt     35.txt 99.txt       57.txt 16.txt   45.txt  78.txt     23.txt       85.txt       15.txt     65.txt 29.txt 53.txt   36.txt      73.txt  82.txt     63.txt         84.txt     22.txt 33.txt               69.txt     101.txt 11.txt    39.txt 62.txt       34.txt   30.txt 31.txt   100.txt      50.txt        37.txt  64.txt     38.txt        83.txt   28.txt             27.txt   93.txt      95.txt  94.txt  41.txt    90.txt    74.txt   91.txt      
+a-priori	88.txt
+aberration	69.txt
+aberrations	69.txt
+abilities	98.txt 52.txt
+ability	98.txt     92.txt 69.txt 48.txt  23.txt 11.txt
+able	11.txt 50.txt
+about	14.txt 40.txt 21.txt 24.txt 76.txt  19.txt 86.txt 2.txt 91.txt 30.txt 64.txt
+above	52.txt 79.txt  12.txt
+above-mentioned	8.txt 6.txt
+absence	64.txt
+abstract	99.txt
+abstracting	85.txt
+abstracts	66.txt 20.txt 
+abstracts”	20.txt
+academic	70.txt 82.txt
+accepted	14.txt 26.txt
+access	54.txt 65.txt
+accessible	43.txt
+accommodation	62.txt
+accomplishing	23.txt
+according	76.txt 44.txt 100.txt 93.txt
+accordingly	73.txt 91.txt
+account	57.txt 86.txt
+accounts	69.txt
+accuracies	81.txt 9.txt 
+accuracy	58.txt 32.txt 80.txt 3.txt 35.txt 81.txt 36.txt 11.txt
+accurate	58.txt 32.txt
+acdsee	42.txt
+achieve	69.txt 36.txt
+achieved	46.txt 15.txt 82.txt 16.txt 93.txt 28.txt
+achievements	82.txt
+achieves	81.txt 35.txt
+achieving	51.txt
+acknowledge	75.txt
+acknowledged	11.txt
+acquire	61.txt
+acquisition	25.txt
+across	32.txt 58.txt 12.txt 69.txt
+action	91.txt
+actionable	83.txt  
+actions	16.txt
+active	26.txt 46.txt      
+actively	87.txt 73.txt
+activities	21.txt 61.txt    71.txt 47.txt 75.txt 79.txt 39.txt  100.txt
+activity	47.txt
+actual	72.txt
+actualized	32.txt
+adapted	60.txt 40.txt 76.txt
+adapting	40.txt
+adding	96.txt
+additional	69.txt 49.txt
+additionally	60.txt 57.txt
+additive	36.txt
+address	23.txt 29.txt 87.txt 91.txt 90.txt 43.txt
+addressed	66.txt 79.txt 81.txt
+addresses	94.txt
+addressing	76.txt 10.txt 39.txt
+adequately	65.txt
+adjusted	94.txt
+administration	10.txt
+adomian	59.txt   
+adomian–rach	59.txt
+adopted	100.txt 85.txt 76.txt 51.txt
+adopting	55.txt 100.txt 
+adoption	7.txt   48.txt 10.txt
+ads	42.txt
+advance	65.txt 57.txt
+advanced	82.txt  27.txt
+advancement	24.txt
+advancements	27.txt
+advances	27.txt 39.txt 33.txt 57.txt
+advantage	52.txt 82.txt 60.txt
+advantages	68.txt 46.txt 19.txt 70.txt 
+advent	27.txt 22.txt
+adversarial	52.txt
+advertisement	42.txt
+advertising	42.txt        
+advice	91.txt
+advocate	76.txt
+advocating	12.txt
+affairs	10.txt
+affect	7.txt 19.txt    
+affected	11.txt 67.txt 64.txt
+affective	19.txt    61.txt
+affects	64.txt 42.txt
+affine	55.txt 
+afflicted	24.txt
+after	52.txt 26.txt 19.txt  45.txt 64.txt 66.txt
+again	91.txt
+against	36.txt 3.txt 2.txt
+age	87.txt 
+age-related	87.txt
+agenda	24.txt 29.txt
+agent	64.txt    
+agents	64.txt 48.txt 20.txt
+ages	87.txt
+agglomerative	99.txt
+aggregate	85.txt
+aggregated	34.txt
+aggregation	85.txt
+agile	86.txt 48.txt 7.txt   
+agile-cloud	7.txt 
+agreed	45.txt
+agricultural	94.txt 
+ahead	80.txt
+ai	80.txt  21.txt   25.txt     26.txt    29.txt   23.txt         24.txt  31.txt    33.txt     30.txt        41.txt    95.txt
+ai-based	80.txt
+aim	36.txt 12.txt 21.txt 29.txt
+aimed	29.txt 80.txt 73.txt 93.txt
+aiming	3.txt
+aims	99.txt 70.txt 83.txt 30.txt 31.txt
+ai’s	31.txt
+ai”	21.txt
+al	56.txt
+aladdin	93.txt
+alerting	91.txt
+algorithm	54.txt  55.txt    89.txt 59.txt     60.txt     57.txt    50.txt  1.txt 18.txt 46.txt  49.txt 58.txt 52.txt     51.txt  56.txt   31.txt 99.txt 53.txt 
+algorithmic	98.txt 53.txt 41.txt
+algorithms	97.txt 8.txt 52.txt 1.txt 3.txt 50.txt 58.txt 49.txt 53.txt 51.txt 27.txt 24.txt 37.txt  34.txt 22.txt
+alike	12.txt
+all	93.txt  10.txt 67.txt 32.txt 40.txt 72.txt 55.txt 75.txt 96.txt 86.txt  69.txt    77.txt 71.txt 56.txt 45.txt 53.txt 23.txt
+all-rounded	48.txt
+alleviating	3.txt
+allocation	94.txt      
+allow	66.txt 61.txt 71.txt
+allowed	76.txt
+allowing	91.txt 86.txt
+allows	60.txt 43.txt 41.txt
+alone	64.txt 65.txt
+along	58.txt 32.txt  100.txt 69.txt  4.txt 27.txt
+also	58.txt 20.txt  86.txt 40.txt 12.txt   89.txt 67.txt 10.txt 21.txt 57.txt 87.txt 17.txt 76.txt 96.txt  11.txt  46.txt 18.txt 4.txt 23.txt  74.txt 98.txt 26.txt  37.txt 99.txt 71.txt 70.txt 79.txt
+alternative	59.txt
+although	79.txt 65.txt 21.txt 83.txt
+alto	40.txt
+always	52.txt 62.txt
+ambient	4.txt
+ambition	48.txt
+amd	98.txt
+america	50.txt
+among	94.txt 46.txt 52.txt  70.txt 39.txt 71.txt 99.txt 8.txt
+amount	5.txt 37.txt 33.txt
+amounts	58.txt
+amplitude	69.txt
+an	58.txt 33.txt   94.txt 43.txt  91.txt 22.txt 95.txt  40.txt  13.txt  66.txt 68.txt 28.txt 50.txt  98.txt 9.txt  29.txt 59.txt   64.txt   12.txt 86.txt  83.txt  11.txt  36.txt 60.txt   10.txt  55.txt 16.txt 42.txt 77.txt 19.txt 92.txt 32.txt 97.txt   41.txt  96.txt 87.txt 76.txt 78.txt 17.txt 48.txt 21.txt   23.txt 49.txt 90.txt  63.txt 51.txt    81.txt 18.txt   45.txt 101.txt 56.txt 82.txt 53.txt 62.txt  38.txt 99.txt 70.txt
+analyse	76.txt 77.txt
+analysis	28.txt 89.txt 70.txt 4.txt 100.txt 12.txt 11.txt 36.txt   35.txt  55.txt  99.txt  37.txt  61.txt 84.txt     45.txt    81.txt   73.txt  44.txt
+analytic	59.txt   
+analytical	83.txt  23.txt    
+analytics	83.txt     99.txt 30.txt
+analyze	76.txt 4.txt 87.txt  37.txt 73.txt 45.txt 46.txt
+analyzed	68.txt 36.txt 45.txt
+analyzes	4.txt 42.txt  
+analyzing	57.txt
+and	57.txt     42.txt         87.txt            13.txt     94.txt     69.txt         65.txt       85.txt       33.txt         58.txt         80.txt      40.txt          43.txt       25.txt      95.txt    91.txt     22.txt           59.txt     55.txt          27.txt            20.txt       77.txt       64.txt        66.txt       29.txt            50.txt   14.txt            93.txt              54.txt      98.txt                    44.txt    89.txt    67.txt        47.txt       15.txt     28.txt     86.txt       10.txt             35.txt      100.txt    75.txt   60.txt     12.txt          70.txt        72.txt      45.txt        68.txt    46.txt                   78.txt    79.txt          76.txt        16.txt    19.txt                 30.txt          11.txt        92.txt    32.txt        96.txt         97.txt  41.txt       36.txt             99.txt           63.txt     34.txt   21.txt        48.txt        88.txt 17.txt           84.txt       74.txt          90.txt 49.txt  83.txt   51.txt             31.txt       23.txt       61.txt     18.txt  73.txt          37.txt           82.txt          71.txt       26.txt                 38.txt  56.txt   81.txt  62.txt     24.txt   52.txt  53.txt           39.txt     
+andor	65.txt 38.txt 
+angles	35.txt
+animal	58.txt
+animation	43.txt
+anisotropic	63.txt
+anniversary	80.txt
+annotated	81.txt
+another	3.txt
+anterior	45.txt    
+anticipate	10.txt
+antlr-based	97.txt
+any	69.txt 85.txt 59.txt 96.txt 7.txt
+anyone	85.txt
+aperture	63.txt 
+app	74.txt 71.txt
+appear	2.txt 75.txt
+appeared	40.txt
+applicable	94.txt 26.txt
+applicating	11.txt
+application	11.txt 26.txt 42.txt   10.txt 38.txt  97.txt 4.txt 81.txt 39.txt 79.txt 76.txt 94.txt 31.txt 63.txt
+applications	63.txt  26.txt 57.txt 2.txt 13.txt 25.txt  33.txt 22.txt  91.txt 14.txt 77.txt 86.txt   28.txt 32.txt 72.txt 70.txt    16.txt 71.txt  30.txt  76.txt      41.txt   96.txt 80.txt   51.txt 61.txt    18.txt 37.txt    
+applied	6.txt 9.txt 22.txt 93.txt 59.txt 67.txt   4.txt 30.txt 31.txt 99.txt 5.txt 90.txt 51.txt
+apply	57.txt 19.txt 31.txt 49.txt 83.txt 82.txt
+applying	82.txt 79.txt 68.txt 83.txt 84.txt
+appreciably	15.txt
+approach	10.txt 2.txt  69.txt 50.txt 79.txt 82.txt 47.txt 51.txt  86.txt 78.txt  59.txt 97.txt  99.txt 49.txt  43.txt  56.txt
+approached	95.txt
+approachers	99.txt
+approaches	26.txt 2.txt 14.txt 39.txt   12.txt  17.txt 19.txt  1.txt 76.txt 61.txt
+approaching	64.txt
+appropriate	59.txt 73.txt 52.txt
+appropriateness	14.txt
+approved	89.txt
+approximate	59.txt
+approximated	60.txt
+approximation	59.txt
+approximations	59.txt 69.txt
+apps	87.txt 71.txt   96.txt 74.txt  
+ar	74.txt     67.txt    70.txt        72.txt 68.txt  43.txt 62.txt
+ar-apps	74.txt 
+ar-technologies	73.txt  
+ar-tools	73.txt
+arcade	96.txt  
+architectural	10.txt 41.txt
+architecture	6.txt 
+architectures	33.txt 10.txt 1.txt  
+are	1.txt    41.txt   39.txt 3.txt  85.txt   63.txt 35.txt   15.txt   58.txt   11.txt     57.txt    59.txt 42.txt  55.txt  20.txt 25.txt 29.txt   70.txt 14.txt 54.txt 26.txt 50.txt 64.txt  22.txt 38.txt     82.txt 81.txt  86.txt   46.txt 79.txt   87.txt 47.txt 10.txt 73.txt   19.txt  36.txt      34.txt 21.txt   48.txt 89.txt 17.txt 65.txt 33.txt 43.txt    37.txt  72.txt 76.txt 49.txt 71.txt 24.txt  53.txt 
+area	7.txt  28.txt
+areas	39.txt 1.txt 70.txt 25.txt 82.txt  73.txt  19.txt 30.txt 
+argues	95.txt
+arise	94.txt
+arm	44.txt  
+arose	61.txt
+around	70.txt 86.txt 12.txt 37.txt
+arranged	18.txt 
+art	70.txt 8.txt 34.txt 68.txt
+article	25.txt 14.txt 46.txt    32.txt 95.txt   47.txt 73.txt  80.txt
+articles	66.txt 14.txt 83.txt
+artifacts	78.txt
+artificial	28.txt   41.txt 45.txt  27.txt    29.txt   26.txt  25.txt  22.txt    95.txt 23.txt  24.txt   88.txt  31.txt  32.txt  21.txt     33.txt  30.txt 
+artificially	63.txt
+arts	39.txt
+as	39.txt  46.txt 87.txt  75.txt     15.txt 84.txt 83.txt  94.txt  58.txt 99.txt 96.txt   57.txt 11.txt 20.txt  59.txt 55.txt  42.txt 30.txt      26.txt    45.txt  16.txt  98.txt  53.txt 18.txt 61.txt 100.txt 29.txt  67.txt 79.txt   51.txt  33.txt  23.txt  73.txt  82.txt     10.txt 22.txt  14.txt 74.txt  37.txt  48.txt 21.txt   47.txt    71.txt 17.txt   65.txt 86.txt 43.txt         49.txt 72.txt 
+asia	50.txt
+asked	64.txt
+aspect	22.txt
+aspects	22.txt
+assemblies	47.txt
+asserts	23.txt
+assess	50.txt 84.txt
+assessment	99.txt 67.txt
+assets	7.txt
+assist	57.txt 26.txt 4.txt
+assistance	61.txt
+assistant	33.txt
+assisted	4.txt
+associated	41.txt 82.txt
+association	24.txt
+assure	86.txt
+at	86.txt 33.txt    39.txt 20.txt 23.txt 62.txt 52.txt 40.txt  93.txt  38.txt 29.txt 60.txt  24.txt 73.txt  95.txt 90.txt  48.txt  32.txt
+atomic	88.txt
+atoms	73.txt
+attaching	88.txt
+attack	4.txt 76.txt
+attacker	92.txt
+attempt	92.txt 39.txt 10.txt
+attempted	57.txt 43.txt
+attended	20.txt
+attending	26.txt
+attention	57.txt 89.txt 5.txt  21.txt 
+attentions	33.txt
+attitude	74.txt 
+attitudes	74.txt 15.txt
+attracted	21.txt 5.txt
+attracting	57.txt
+augmentation	74.txt 55.txt 23.txt
+augmented	63.txt  67.txt   43.txt   69.txt  74.txt  66.txt        62.txt   18.txt  72.txt    68.txt     70.txt  61.txt      73.txt         64.txt        71.txt      95.txt 65.txt   
+author's	89.txt
+authoring	71.txt 
+authors	65.txt
+authors'	17.txt
+auto	58.txt
+auto-encoders	9.txt
+autoencoder	1.txt
+automated	81.txt
+automatic	9.txt 21.txt
+automatically	58.txt
+automation	48.txt
+autosomal	92.txt
+auxiliary	49.txt
+availability	6.txt 28.txt 11.txt 30.txt 27.txt 37.txt 
+available	85.txt 13.txt 81.txt 79.txt 66.txt  65.txt 73.txt
+average	52.txt 36.txt 60.txt
+avoid	64.txt
+avoided	64.txt
+avoids	8.txt
+award	94.txt
+awareness	66.txt
+away	64.txt
+b	97.txt  
+b-spline	53.txt
+b-splines	53.txt   
+back	72.txt
+background	33.txt
+bad	2.txt
+bandwidth	6.txt
+bankruptcy	94.txt   
+bare-metal	41.txt
+barrier	16.txt 71.txt
+base	88.txt 47.txt
+based	46.txt    50.txt 8.txt  78.txt 55.txt 35.txt 99.txt  49.txt 67.txt 56.txt 96.txt 59.txt  2.txt  11.txt  79.txt 69.txt 13.txt  74.txt  18.txt 44.txt 88.txt    52.txt   58.txt  24.txt 14.txt   94.txt  89.txt  36.txt 61.txt
+basic	61.txt 8.txt 86.txt 98.txt 93.txt 
+basis	86.txt 53.txt  7.txt
+bbpl	99.txt   
+bchain	88.txt
+be	7.txt 18.txt 56.txt 87.txt 25.txt 76.txt 50.txt   61.txt  30.txt 23.txt  29.txt  35.txt 86.txt 98.txt 42.txt 41.txt 59.txt 54.txt  43.txt  57.txt  66.txt  11.txt  69.txt 28.txt 36.txt 65.txt 22.txt 20.txt 16.txt 32.txt       60.txt 82.txt 92.txt 
+because	1.txt 11.txt 100.txt 79.txt 24.txt
+become	23.txt 42.txt 92.txt 65.txt 28.txt 95.txt 12.txt 
+becomes	8.txt
+becoming	45.txt 92.txt
+been	8.txt 87.txt 18.txt 33.txt  17.txt  91.txt 83.txt  73.txt  76.txt 50.txt 21.txt 11.txt 77.txt 54.txt  40.txt 79.txt 58.txt  31.txt  64.txt 37.txt  68.txt 5.txt 65.txt 82.txt    32.txt 70.txt   94.txt 14.txt 
+before	54.txt 11.txt 66.txt 40.txt 9.txt
+begin	10.txt 19.txt
+beginners	100.txt 
+beginning	33.txt 93.txt 37.txt 32.txt
+behave	96.txt
+behavior	100.txt   45.txt 64.txt  26.txt
+behaviors	52.txt
+behaviour	87.txt
+behind	8.txt 99.txt 100.txt 37.txt
+being	3.txt 4.txt 8.txt 70.txt 
+belief	1.txt 
+believe	37.txt 33.txt 27.txt
+belong	58.txt
+benchmark	58.txt 84.txt  41.txt 57.txt 81.txt 3.txt
+benchmarks	41.txt  
+beneficial	11.txt
+beneficiaries	20.txt
+benefit	37.txt 65.txt
+benefits	91.txt 74.txt  14.txt 5.txt
+beside	96.txt
+besides	74.txt 47.txt
+best	57.txt 2.txt 76.txt  79.txt 94.txt 26.txt 82.txt
+best-performing	34.txt
+better	87.txt 42.txt  58.txt 51.txt 64.txt
+between	2.txt 20.txt 56.txt 52.txt 87.txt  70.txt 85.txt 80.txt 74.txt 69.txt 23.txt 51.txt 82.txt 16.txt 40.txt 36.txt 11.txt  68.txt 37.txt 93.txt 
+between-participants	15.txt
+beyond	21.txt  27.txt 
+bi	21.txt
+bias	2.txt 32.txt
+biased	57.txt
+bidirectional	65.txt
+big	5.txt   32.txt 21.txt 29.txt     37.txt 33.txt 4.txt
+biggest	93.txt
+billions	33.txt 76.txt
+binary	46.txt
+binding	29.txt
+bio-inspired	57.txt
+biology	50.txt
+biology—up	26.txt
+biomedical	25.txt
+biosynthetic	26.txt
+bits	49.txt
+bi”	21.txt
+blackmail	92.txt
+blended	61.txt 100.txt
+block	55.txt 60.txt
+block-based	99.txt 
+blockchain	86.txt      76.txt   
+blockchain-oriented	75.txt  
+blockchainswe	76.txt
+board	96.txt
+bodies	95.txt      
+body	78.txt 17.txt 96.txt
+boldly	72.txt
+boltzmann	3.txt 1.txt
+bone	45.txt
+bones	45.txt
+book	17.txt   40.txt    
+books	87.txt
+booming	24.txt 33.txt
+boosting	29.txt
+born	26.txt
+both	15.txt 18.txt 95.txt 49.txt 57.txt 33.txt 65.txt 40.txt 34.txt 81.txt 16.txt 22.txt
+bottleneck	63.txt
+bound	100.txt
+boundaries	27.txt
+boundary	59.txt 60.txt
+bounded	55.txt
+boys	93.txt
+brain	21.txt 
+branch	26.txt   94.txt
+branches	26.txt
+brand	74.txt 
+brands	74.txt 
+breakthrough	60.txt
+breakthroughs	25.txt 27.txt 33.txt
+bridge	37.txt
+bridging	11.txt
+bright	6.txt
+bring	48.txt 91.txt
+bringing	30.txt
+brings	29.txt
+broad	26.txt 12.txt
+broadband	63.txt
+broader	92.txt 87.txt
+browsing	96.txt
+buffers	38.txt
+bug	76.txt
+bugs	76.txt
+build	96.txt 
+building	97.txt   48.txt 82.txt  14.txt
+built	69.txt 60.txt 80.txt
+bulkiness	63.txt
+burgeoning	26.txt
+bus	85.txt
+business	85.txt 72.txt 
+but	20.txt 64.txt 7.txt 73.txt 15.txt 67.txt 46.txt 35.txt 32.txt 98.txt  99.txt 69.txt 11.txt 23.txt 59.txt
+buttons	96.txt
+by	96.txt   59.txt  99.txt 85.txt 14.txt  76.txt  30.txt 71.txt 78.txt    12.txt  40.txt   95.txt 18.txt 7.txt 64.txt  32.txt   41.txt  52.txt    56.txt  26.txt 46.txt 63.txt  29.txt 57.txt   84.txt  43.txt 92.txt  54.txt 77.txt  62.txt   21.txt 23.txt 11.txt  10.txt  82.txt    100.txt    94.txt 33.txt  89.txt 36.txt  61.txt 66.txt   55.txt 90.txt 
+bystanders	20.txt
+bytes	33.txt
+cadaver	45.txt
+calculated	94.txt 
+calculation	49.txt 69.txt
+calculations	45.txt
+calibration	69.txt
+call	76.txt 
+called	53.txt 86.txt 22.txt 92.txt 21.txt  
+camera	62.txt 18.txt
+camera-ready	40.txt
+can	18.txt 76.txt  99.txt 19.txt 59.txt 96.txt 30.txt 14.txt 42.txt  15.txt 86.txt 60.txt  7.txt  52.txt  41.txt 53.txt 63.txt 56.txt 46.txt 54.txt 29.txt 57.txt  43.txt  49.txt 11.txt  79.txt 100.txt 82.txt 87.txt  16.txt  10.txt 92.txt  28.txt 66.txt 61.txt 74.txt  36.txt
+cancer	30.txt 27.txt 58.txt
+cannot	50.txt
+capabilities	6.txt
+capability	1.txt
+capable	23.txt
+capacities	55.txt
+capacitive	12.txt     
+capacity	7.txt 31.txt
+capture	9.txt 37.txt
+capturing	85.txt
+cardiology	22.txt      30.txt 27.txt
+cardiovascular	22.txt  31.txt       
+care	31.txt  21.txt
+careful	41.txt
+carefully	81.txt
+carlo	2.txt
+carpet”	93.txt
+carried	51.txt
+carry	81.txt
+carrying	61.txt
+case	76.txt 71.txt 97.txt 77.txt 93.txt 17.txt 10.txt 8.txt 
+cases	76.txt 40.txt 92.txt
+catalog	83.txt 85.txt
+categorized	82.txt
+caucasian	92.txt
+causes	5.txt
+causing	76.txt 90.txt
+cea	94.txt 
+cells	58.txt  
+center	40.txt 10.txt 
+centers	10.txt
+central	49.txt
+centralized	52.txt 10.txt 85.txt
+certain	21.txt
+certainly	21.txt
+certifications	86.txt
+cg	36.txt   35.txt
+chairs	64.txt 
+challenge	15.txt
+challenges	69.txt 27.txt 4.txt 12.txt 8.txt 50.txt 91.txt 75.txt 82.txt        25.txt  80.txt  84.txt 10.txt   31.txt 79.txt  39.txt
+challenging	43.txt 82.txt 52.txt 7.txt 93.txt
+change	50.txt 83.txt 10.txt 48.txt
+changed	42.txt 67.txt
+changes	74.txt 
+changing	50.txt 25.txt
+chapter	19.txt 
+characteristic	11.txt
+characteristics	59.txt 61.txt 73.txt 14.txt 63.txt
+characters	95.txt
+charge	41.txt
+chat	15.txt
+chatting	15.txt
+chat—for	15.txt
+cheaper	27.txt
+chemical	73.txt
+chemistry	73.txt            50.txt
+children	87.txt  
+china	21.txt
+chip	59.txt
+choice	64.txt 2.txt 
+choices	5.txt
+choose	64.txt
+choosing	79.txt
+chose	64.txt  40.txt
+chosen	94.txt 66.txt
+chou’s	58.txt
+cipr	88.txt
+citation	68.txt
+cities	11.txt   29.txt      
+claim	79.txt 
+clandestine	88.txt
+clarified	19.txt
+class	58.txt 59.txt  34.txt
+classes	57.txt
+classic	96.txt
+classical	99.txt 49.txt 2.txt 13.txt 30.txt
+classification	34.txt 8.txt 36.txt 51.txt  
+classifier	18.txt 58.txt 36.txt
+classifies	9.txt
+classify	12.txt
+classroom	61.txt 93.txt 71.txt 100.txt  
+clear	27.txt 65.txt 1.txt 82.txt 
+clever	60.txt
+client	7.txt
+clients	7.txt 38.txt 90.txt
+climate	50.txt   
+clinical	27.txt  45.txt  67.txt 31.txt 
+clinicians	22.txt 32.txt
+close	82.txt
+closely	37.txt
+closer	70.txt
+cloud	32.txt 9.txt   5.txt   8.txt         4.txt      7.txt      85.txt    54.txt  10.txt        88.txt 6.txt  
+cloud-agile	7.txt
+cloud-based	6.txt
+cloud-enabled	54.txt 
+clouds	9.txt 
+cluster	85.txt
+clustering	99.txt
+clusters	99.txt 
+cmc	15.txt
+cms	11.txt 
+cnn	9.txt 34.txt
+cnn-based	9.txt
+code	99.txt 87.txt 76.txt 24.txt
+coded	100.txt
+coders	100.txt
+codes	24.txt 97.txt 
+coding	58.txt
+coefficient	51.txt 
+cognition	21.txt
+cognitive	30.txt 19.txt
+coherent	49.txt
+coins	76.txt
+cold	92.txt 50.txt
+collaboration	82.txt 75.txt 6.txt
+collaborative	84.txt
+collateral	45.txt
+collected	100.txt 
+collection	11.txt
+collectively	22.txt
+college	100.txt
+color	69.txt 42.txt
+combination	7.txt 
+combinations	14.txt  53.txt
+combinatorial	56.txt
+combine	40.txt
+combined	93.txt 18.txt 100.txt  92.txt  36.txt
+combines	62.txt
+come	80.txt 86.txt
+coming	65.txt
+command-line	13.txt
+comments	100.txt   81.txt
+commercial	40.txt
+commercially	65.txt
+common	99.txt 22.txt 72.txt 12.txt  14.txt 90.txt
+commonly	58.txt 2.txt
+communication	21.txt 19.txt 65.txt 91.txt 95.txt 52.txt 84.txt
+communications	15.txt
+communities	80.txt 37.txt  82.txt 20.txt 33.txt 91.txt
+community	12.txt 57.txt 19.txt 4.txt 14.txt 92.txt 28.txt
+compact	69.txt 63.txt
+companies	48.txt 82.txt   
+comparable	2.txt 66.txt
+comparative	35.txt 2.txt
+compare	41.txt 81.txt
+compared	2.txt 36.txt 58.txt  82.txt 76.txt 98.txt 46.txt  35.txt 64.txt  59.txt 52.txt 86.txt
+compares	48.txt
+comparing	19.txt
+comparison	47.txt
+competences	61.txt
+competition	55.txt 86.txt
+competitive	2.txt
+compilation	97.txt  
+compiling	97.txt  
+complaint	83.txt
+complete	91.txt 93.txt 40.txt 44.txt 64.txt
+completion	87.txt  52.txt
+complex	50.txt 8.txt  85.txt 26.txt 65.txt 100.txt 46.txt 49.txt
+complexities	26.txt
+complexity	70.txt 56.txt 79.txt
+compliance	29.txt
+complicated	21.txt
+component	63.txt
+components	96.txt 19.txt 82.txt 10.txt 40.txt 71.txt 4.txt
+composed	63.txt
+composition	40.txt
+comprehensive	78.txt   33.txt 77.txt
+comprehensively	46.txt
+compression	36.txt
+comprising	71.txt
+computation	51.txt  49.txt 53.txt  57.txt 69.txt 52.txt  54.txt   58.txt 50.txt 55.txt  56.txt 60.txt 59.txt
+computation-driven	59.txt
+computational	58.txt  46.txt 99.txt 41.txt 2.txt  10.txt
+compute	50.txt 6.txt
+computed	34.txt 57.txt
+computer	34.txt   46.txt    42.txt   26.txt 90.txt 43.txt    37.txt      39.txt     31.txt 91.txt    40.txt    38.txt  96.txt  47.txt   45.txt   33.txt 100.txt 36.txt   63.txt 88.txt  35.txt  41.txt    16.txt   44.txt 92.txt  14.txt 89.txt 
+computer-aided	27.txt
+computer-implemented	90.txt
+computer-mediated	15.txt
+computers	100.txt
+computing	9.txt 4.txt      28.txt 5.txt   32.txt 25.txt 98.txt   6.txt        38.txt 54.txt 19.txt 85.txt 7.txt    52.txt    60.txt    33.txt    10.txt    20.txt   41.txt   56.txt
+computing-based	4.txt
+con-artists	92.txt
+concave	62.txt
+concept	11.txt 29.txt 21.txt 54.txt 89.txt
+concepts	86.txt 72.txt 43.txt 22.txt 87.txt        10.txt   17.txt
+conceptual	61.txt
+conceptualize	48.txt
+concerned	39.txt
+conclude	73.txt 30.txt 77.txt
+concludes	95.txt
+conclusions	66.txt 100.txt
+condition	22.txt
+conditions	24.txt
+conduct	21.txt 81.txt 78.txt 97.txt 33.txt
+conducted	7.txt 99.txt 47.txt 17.txt 4.txt  93.txt
+conference	39.txt 20.txt
+confidence	98.txt
+configuration	44.txt
+conflict	94.txt 
+conflicts	94.txt  76.txt 
+confusion	72.txt
+conjunction	20.txt
+connect	96.txt 38.txt 
+connected	33.txt 6.txt
+connectedness	64.txt
+connection	64.txt 28.txt 88.txt
+connections	88.txt 4.txt
+connotation	42.txt 
+conscientiousness	24.txt
+consequence	91.txt
+consequences	89.txt 
+consider	4.txt 92.txt 74.txt 55.txt
+considerable	58.txt
+consideration	93.txt 54.txt
+considered	59.txt 2.txt  14.txt
+considering	91.txt 68.txt 2.txt
+consistent	12.txt
+consisting	81.txt
+consists	20.txt
+consolidates	17.txt
+constituting	23.txt
+constrained	94.txt 
+constraint	55.txt 
+construct	58.txt 59.txt  74.txt
+constructing	59.txt 
+construction	53.txt 
+constructs	72.txt
+consume	61.txt
+consumer	92.txt   74.txt  63.txt
+consumers	74.txt 
+consumers’	74.txt
+consumption	54.txt 8.txt
+contain	47.txt
+containing	92.txt
+content	61.txt 90.txt     84.txt 64.txt 47.txt
+context	53.txt 56.txt 79.txt
+contextual	22.txt
+contingency	15.txt     
+contingent	15.txt
+continues	85.txt
+continuously	85.txt
+continuum	72.txt
+contour	46.txt      
+contourlet	35.txt
+contract	76.txt   
+contracts	76.txt    86.txt 75.txt
+contrast	69.txt
+contribute	29.txt 91.txt
+contributes	7.txt 21.txt
+contributing	85.txt
+contribution	56.txt
+contributions	10.txt
+control	10.txt 26.txt 11.txt  69.txt 79.txt
+controlled	18.txt 45.txt
+controller	13.txt  16.txt
+conventional	10.txt 69.txt
+convergence	2.txt 32.txt 55.txt 60.txt
+converging	48.txt
+conversational	15.txt
+conveying	91.txt
+convolution	34.txt
+convolutional	34.txt 9.txt 1.txt
+coordination	52.txt
+cope	41.txt
+copy	40.txt
+core	33.txt 9.txt 
+cores	59.txt
+corporate	89.txt
+corporeal	95.txt
+correction	69.txt    99.txt
+correlation	93.txt
+corresponding	57.txt 9.txt 35.txt 52.txt 13.txt 77.txt 39.txt
+corroborates	2.txt
+corroborating	79.txt
+cost	79.txt 2.txt 8.txt 66.txt 54.txt 
+cost-effectiveness	31.txt
+costs	54.txt 64.txt
+could	92.txt 91.txt 80.txt 76.txt 22.txt  82.txt
+countermeasure	90.txt 
+countermeasures	90.txt 
+counterpart	86.txt
+countries	21.txt 
+coupled	94.txt 55.txt
+cournot	55.txt
+course	93.txt 43.txt 40.txt 47.txt  100.txt 87.txt    
+courses	39.txt 47.txt  
+covariance	58.txt
+cover	37.txt 77.txt
+covering	83.txt
+covers	17.txt
+covert	88.txt
+cpd	62.txt
+cpu	7.txt
+create	80.txt 71.txt 93.txt 12.txt 68.txt
+created	87.txt 37.txt
+creating	95.txt
+creation	92.txt 73.txt
+criminal	92.txt
+criminals	92.txt
+crisis	24.txt 
+criteria	94.txt
+critical	95.txt 15.txt 88.txt 
+cross	11.txt
+cross-referencing	66.txt
+cross-time	11.txt
+cross-validation	58.txt
+crowdsourced	77.txt 
+crowdsourcing	77.txt     
+crucial	27.txt
+cruciate	45.txt    
+cryptocurrencies	86.txt
+crystalline	73.txt
+ctis	88.txt
+ctmp	88.txt
+cuckoo	57.txt         
+cues	62.txt
+culture	29.txt
+current	32.txt 64.txt 73.txt 71.txt   91.txt 68.txt 34.txt 48.txt 70.txt 50.txt 78.txt 63.txt 30.txt
+currently	76.txt 13.txt
+curricula	93.txt
+curriculum	48.txt
+curse	3.txt
+curves	94.txt
+custom	34.txt
+customisation	71.txt
+customising	71.txt
+customized	84.txt
+cv	46.txt
+cwt	35.txt
+cyber-attacks	89.txt 
+cyberattacks	89.txt
+cyberspace	88.txt
+czech	26.txt
+da	26.txt 
+dac	58.txt
+daily	11.txt  21.txt
+dam	94.txt
+data	21.txt 6.txt  60.txt 79.txt 51.txt     37.txt   10.txt   5.txt      29.txt      11.txt 32.txt     15.txt 25.txt 3.txt 4.txt    66.txt 90.txt 87.txt 33.txt  65.txt 30.txt    83.txt 
+data-driven	51.txt 99.txt
+database	82.txt 9.txt  68.txt
+databases	9.txt  92.txt   14.txt
+dataset	58.txt 81.txt 99.txt
+datasets	51.txt 28.txt
+date	22.txt
+dating	66.txt
+day	76.txt
+days	3.txt 86.txt
+dc	10.txt
+deadline	54.txt
+deal	37.txt 4.txt
+dealing	94.txt 37.txt
+debugging	87.txt 85.txt
+decade	31.txt 8.txt 28.txt 24.txt 83.txt 70.txt
+decades	64.txt 17.txt 12.txt
+december	89.txt
+decentrailized	52.txt
+decentralized	52.txt  86.txt 59.txt   
+decide	23.txt
+decides	54.txt
+deciding	79.txt
+decision	54.txt   55.txt 28.txt
+decision-making	65.txt
+decisions	26.txt 52.txt 85.txt
+decomposition	59.txt  
+decoupling	60.txt
+decreasing	67.txt
+decree	89.txt
+dedicated	33.txt
+deep	33.txt     1.txt         26.txt 58.txt  5.txt  9.txt 82.txt  22.txt 30.txt 37.txt
+deep-learned	9.txt
+deep-learning	34.txt 32.txt
+defects	69.txt
+defense	88.txt
+defined	48.txt 82.txt
+definition	77.txt 76.txt
+definitions	77.txt 19.txt
+defocus	62.txt
+defraud	92.txt
+degradation	8.txt
+degree	31.txt 36.txt
+degrees	53.txt 
+delineating	19.txt
+deliver	48.txt
+delivered	76.txt
+delivery	26.txt
+demand	8.txt 33.txt 48.txt 73.txt 37.txt
+demands	65.txt
+demographic	92.txt
+demonstrate	59.txt 54.txt 63.txt
+demonstrated	3.txt 93.txt
+demonstrations	63.txt 21.txt 52.txt 49.txt
+dense	92.txt
+dental	67.txt   
+dentistry	67.txt
+depend	67.txt
+dependent	21.txt 
+depending	96.txt 
+deployed	61.txt
+deploying	71.txt 
+deployment	30.txt
+depth	62.txt  18.txt 
+derive	77.txt 52.txt 74.txt 56.txt
+derives	26.txt
+describe	77.txt 53.txt 91.txt 82.txt 39.txt 87.txt 92.txt 50.txt
+described	38.txt 26.txt 65.txt
+describes	65.txt 22.txt
+describing	19.txt
+description	40.txt
+descriptions	82.txt
+descriptive	47.txt
+descriptors	18.txt
+design	47.txt 19.txt 52.txt 13.txt  85.txt  86.txt 29.txt 41.txt 42.txt      61.txt  58.txt 15.txt 97.txt 89.txt 87.txt 78.txt     17.txt  
+designed	93.txt 81.txt 50.txt 91.txt 16.txt 87.txt
+designing	85.txt 14.txt 71.txt  
+designs	69.txt 62.txt
+desired	33.txt
+desktop	40.txt 
+desktop-based	43.txt
+despite	71.txt
+detailed	5.txt 78.txt
+details	30.txt
+detected	16.txt
+detection	35.txt 19.txt 30.txt 89.txt 
+determinant	15.txt
+determine	4.txt
+determined	90.txt
+determining	90.txt 49.txt
+detrimental	76.txt
+develop	23.txt 21.txt  78.txt 73.txt 59.txt 84.txt 19.txt
+developed	21.txt   71.txt 76.txt 37.txt 40.txt 50.txt 67.txt 46.txt 59.txt 100.txt
+developers	57.txt
+developers'	84.txt
+developing	100.txt 71.txt 21.txt   23.txt 78.txt 45.txt 81.txt 11.txt 70.txt 10.txt 
+development	71.txt    63.txt  73.txt  96.txt  84.txt 7.txt    85.txt 76.txt 86.txt  48.txt 13.txt  42.txt   75.txt   29.txt 10.txt 57.txt       65.txt 82.txt  28.txt 67.txt 97.txt 26.txt 46.txt 66.txt 
+developments	11.txt 58.txt 10.txt  14.txt 28.txt
+deviation	50.txt
+device	11.txt 69.txt 54.txt  65.txt 67.txt
+devices	66.txt 71.txt  12.txt  73.txt 52.txt    43.txt   9.txt 37.txt 13.txt 41.txt 65.txt   33.txt
+devise	75.txt
+devised	66.txt
+devops	48.txt
+di-nucleotide	58.txt
+diagnosing	24.txt
+diagnosis	27.txt  58.txt 30.txt 31.txt 26.txt
+diagnostic	66.txt 27.txt
+dialog	91.txt
+dialogue	15.txt 20.txt   
+dichotomization	22.txt
+dictate	47.txt
+difference	36.txt 87.txt 93.txt 99.txt
+differences	87.txt 36.txt   72.txt 11.txt 
+different	90.txt 6.txt 1.txt 12.txt 19.txt 40.txt 53.txt  99.txt   47.txt  52.txt  43.txt 72.txt  14.txt  59.txt 51.txt   41.txt 54.txt 39.txt
+differential	59.txt
+differently	41.txt
+difficult	24.txt 100.txt 87.txt 98.txt
+difficulties	81.txt 
+difficulty	50.txt 79.txt
+digest	72.txt
+digital	17.txt  35.txt 6.txt 61.txt  27.txt       92.txt
+digitized	25.txt
+dimensionality	3.txt
+dimensions	36.txt   29.txt 
+direct	50.txt 14.txt
+direction	64.txt
+directions	32.txt 28.txt 75.txt 37.txt 57.txt 70.txt
+directly	64.txt 7.txt 69.txt 79.txt
+disadvantages	70.txt 19.txt 46.txt
+discharged	7.txt
+discipline	76.txt  47.txt 
+disciplines	47.txt  22.txt 61.txt
+discover	4.txt
+discovered	76.txt 92.txt 58.txt
+discovery	61.txt
+discrete	35.txt
+discriminant	11.txt
+discriminate	36.txt
+discriminated	36.txt
+discrimination	36.txt
+discuss	1.txt 95.txt 33.txt 76.txt 80.txt 92.txt 69.txt 27.txt 37.txt 30.txt 10.txt 
+discussed	5.txt 17.txt 79.txt 32.txt 80.txt 15.txt 19.txt
+discusses	68.txt 22.txt 5.txt 31.txt
+discussion	100.txt   28.txt 5.txt 30.txt 20.txt
+discussions	33.txt
+disease	31.txt 30.txt
+diseases	31.txt
+disparate	14.txt
+display	63.txt  18.txt 62.txt       
+displays	62.txt 40.txt 69.txt  
+distance	99.txt
+distant	92.txt 
+distinctive	39.txt
+distinguish	72.txt 35.txt
+distinguishing	35.txt 34.txt 
+distribute	8.txt
+distributed	77.txt 55.txt  
+distribution	9.txt 46.txt
+distributions	52.txt
+diverse	8.txt  43.txt 54.txt
+diverts	94.txt
+divide	93.txt 
+divided	97.txt
+dl	82.txt     
+dna	92.txt
+dnn	58.txt
+do	7.txt 87.txt 65.txt 40.txt
+document	83.txt
+documenting	96.txt
+does	86.txt 15.txt
+doesn't	24.txt
+doing	96.txt
+dollars	76.txt
+domain	81.txt 84.txt 19.txt 35.txt 17.txt 11.txt
+domains	10.txt 4.txt 12.txt 77.txt
+dominate	40.txt
+done	35.txt
+double	69.txt 59.txt
+double-edged	23.txt
+downstream	94.txt
+draft	40.txt
+dramatically	41.txt
+drawback	1.txt 28.txt
+drawbacks	14.txt 5.txt
+drawn	1.txt
+draws	4.txt 17.txt
+driven	62.txt
+driver	48.txt
+drives	62.txt 74.txt
+driving	33.txt 21.txt 37.txt 
+drug	58.txt 26.txt
+dsn	3.txt
+due	2.txt 52.txt 46.txt 7.txt 8.txt
+duplicates	66.txt
+duplication	87.txt
+duration	59.txt
+during	11.txt 83.txt 6.txt 45.txt  62.txt
+dwt	35.txt
+dyads	64.txt
+dynamic	16.txt  48.txt
+dynamical	49.txt
+dynamically	62.txt
+dynamically-foveated	62.txt
+dynamics	48.txt 50.txt
+dynamism	8.txt
+e-health	4.txt
+each	40.txt 90.txt 72.txt 59.txt   55.txt 3.txt 60.txt    45.txt 97.txt 31.txt
+eager	72.txt
+earlier	97.txt
+early	40.txt 30.txt 86.txt 14.txt
+ease	14.txt 57.txt
+easier	43.txt 23.txt 27.txt
+easily	24.txt 56.txt 100.txt 15.txt
+easy	10.txt
+ecology	29.txt
+economic	29.txt  26.txt 21.txt 25.txt
+economics	86.txt
+economy	21.txt
+edge	33.txt           52.txt      6.txt    54.txt   9.txt   46.txt
+edge-cloud	9.txt
+edit	99.txt
+edition	40.txt 
+editions	40.txt 
+education	67.txt 39.txt      79.txt   98.txt    61.txt 73.txt          68.txt  48.txt  43.txt
+educational	73.txt 67.txt 64.txt 68.txt    93.txt 
+educators	79.txt 71.txt 
+edx	100.txt
+eeg	3.txt   
+effect	91.txt 98.txt 42.txt 
+effective	75.txt 10.txt 97.txt 36.txt 37.txt 100.txt 99.txt 46.txt
+effectively	41.txt
+effectiveness	93.txt 73.txt 90.txt 11.txt 59.txt 68.txt 57.txt 54.txt
+effects	15.txt  49.txt 19.txt 91.txt   61.txt 64.txt
+efficacy	66.txt
+efficiency	66.txt 11.txt 41.txt 46.txt 4.txt 54.txt 59.txt 50.txt 51.txt
+efficient	96.txt 10.txt 49.txt 53.txt 99.txt 5.txt 7.txt  59.txt 60.txt 
+efficiently	16.txt
+efforts	33.txt
+eg	91.txt 38.txt 28.txt 7.txt
+ei	33.txt     
+eigensolver	49.txt
+either	85.txt 8.txt
+elastic	45.txt
+elasticity	8.txt
+elderly	26.txt
+electroencephalogram	3.txt
+electromyogram	11.txt
+electronic	26.txt
+electronics	63.txt
+element	42.txt 62.txt
+element-wise	51.txt
+elementary	87.txt
+elements	42.txt  58.txt 97.txt 79.txt  18.txt 61.txt
+elicit	33.txt
+elicitation	14.txt
+elimination	89.txt 
+elm	11.txt
+elsässer	60.txt
+embedded	41.txt
+embodied	26.txt 64.txt
+embodiments	38.txt
+emerge	84.txt
+emerged	84.txt 37.txt
+emerging	41.txt 29.txt 11.txt 33.txt  77.txt
+emg	11.txt
+emotion	9.txt  
+emotional	19.txt 
+emotions	19.txt   84.txt
+empathetic	23.txt  
+empathetic—and	23.txt
+emphasis	59.txt
+empirical	79.txt 100.txt
+empirically	74.txt
+employed	51.txt
+employees	23.txt 
+employing	66.txt 10.txt
+employment	23.txt
+employs	58.txt
+enable	31.txt 27.txt 22.txt 82.txt 6.txt 69.txt
+enabled	27.txt 12.txt 32.txt
+enables	69.txt 23.txt 43.txt 38.txt 53.txt
+enabling	32.txt 49.txt 12.txt 86.txt
+encoding	69.txt
+encodings	69.txt
+encompasses	20.txt
+encompassing	41.txt 70.txt
+encourage	92.txt
+encourages	29.txt
+encouraging	35.txt
+end	33.txt
+energy	46.txt 8.txt 54.txt 
+engagement	71.txt 15.txt   79.txt
+engineering	79.txt  81.txt  87.txt     76.txt    75.txt 58.txt 59.txt 86.txt  47.txt    61.txt 78.txt   83.txt  84.txt   77.txt        19.txt 82.txt   85.txt 26.txt 14.txt  80.txt    48.txt     
+engineering's	80.txt
+engineers	75.txt 29.txt 86.txt
+enhance	66.txt 96.txt 11.txt 
+enhanced	79.txt 32.txt
+enhancing	29.txt 75.txt
+enormous	4.txt
+enough	50.txt
+ensemble	60.txt
+ensembles	60.txt 
+ensure	11.txt 46.txt
+ensuring	75.txt 29.txt 
+enterface’05	9.txt
+entertainment	96.txt
+entire	97.txt
+entirely	23.txt
+entrepreneurial	48.txt
+entry	71.txt
+environment	71.txt  52.txt 43.txt 93.txt 65.txt 6.txt 27.txt 8.txt
+environmental	94.txt
+environments	13.txt 10.txt 12.txt 84.txt
+epl	98.txt
+epleducational	98.txt
+equal	94.txt 
+equilibria	55.txt
+equilibrium	55.txt 52.txt
+equipment	73.txt
+equipped	71.txt
+era	40.txt 59.txt
+erosion	32.txt
+error	2.txt
+error-correction	49.txt
+error-resilient	49.txt
+errors	49.txt 32.txt
+escalating	33.txt
+esp8266	96.txt
+especially	81.txt 100.txt 40.txt  93.txt
+essential	59.txt 10.txt
+established	4.txt
+establishment	89.txt 
+estimate	67.txt 57.txt
+estimates	34.txt 2.txt 92.txt
+estimation	2.txt 12.txt
+estimator	2.txt 
+estimators	2.txt
+et	56.txt
+etc	8.txt 42.txt
+ether	76.txt
+ethereum	76.txt
+ethers	76.txt
+ethical	26.txt
+eurographics	39.txt
+europe	21.txt
+european	50.txt
+evaluate	74.txt 51.txt 67.txt 34.txt
+evaluated	3.txt 2.txt 93.txt 61.txt 58.txt 69.txt
+evaluates	66.txt
+evaluating	74.txt
+evaluation	74.txt  13.txt 17.txt 61.txt 54.txt 71.txt 78.txt 67.txt 30.txt
+evaluations	81.txt 53.txt
+even	23.txt 
+event	50.txt
+events	50.txt    21.txt
+eventually	23.txt 91.txt 
+ever	41.txt
+ever-increasing	37.txt 1.txt
+every	96.txt 22.txt 76.txt
+everything	88.txt
+evidence	64.txt 14.txt
+evident	14.txt
+evolution	13.txt 10.txt
+evolve	50.txt
+exacerbated	94.txt
+exact	59.txt
+examination	67.txt
+examined	64.txt  
+examines	17.txt 95.txt
+example	7.txt 92.txt 38.txt 11.txt 72.txt
+example-driven	51.txt
+examples	42.txt 17.txt 28.txt 22.txt 59.txt
+exceeding	40.txt
+excels	21.txt
+exception	22.txt
+exchange	4.txt
+exchanged	76.txt
+exchanging	33.txt
+excited	49.txt 
+execute	48.txt 96.txt
+executed	41.txt
+execution	76.txt
+executive	72.txt
+exhaustive	95.txt
+exhibitions	17.txt
+exhibits	2.txt
+exifshow	42.txt
+existed	17.txt 36.txt
+existing	63.txt 58.txt  37.txt 31.txt  92.txt 53.txt 76.txt
+expand	85.txt
+expanded	3.txt
+expanding	25.txt
+expansion	49.txt
+expected	91.txt 57.txt 6.txt 19.txt
+experienced	21.txt
+experiences	39.txt
+experiment	97.txt 93.txt 100.txt 15.txt
+experimental	63.txt 46.txt 36.txt 97.txt 61.txt 49.txt 58.txt 99.txt 45.txt  11.txt
+experimentally	51.txt
+experiments	60.txt 24.txt 9.txt 35.txt
+expert	57.txt
+expertise	58.txt
+experts	25.txt 52.txt  80.txt 78.txt 
+explain	96.txt 10.txt
+explainable	28.txt 
+explains	22.txt
+exploited	40.txt
+exploiting	18.txt 
+exploration	61.txt
+explore	61.txt 91.txt 72.txt  10.txt 31.txt
+explored	14.txt 70.txt 65.txt
+exponential-type	2.txt 
+exposed	81.txt
+exposing	77.txt
+express	42.txt
+expression	42.txt 58.txt
+extend	27.txt
+extended	49.txt 6.txt 
+extensive	17.txt 54.txt  95.txt 12.txt
+extensively	58.txt
+extent	79.txt  10.txt
+extract	58.txt 9.txt 99.txt
+extracted	11.txt 36.txt 
+extracting	21.txt 49.txt
+extraction	11.txt 34.txt 3.txt  53.txt
+extra‐curricular	39.txt
+extreme	11.txt 50.txt   
+extremely	50.txt
+eye	62.txt   69.txt 95.txt
+eyeglasses-like	69.txt
+eyepiece	63.txt
+fabric	29.txt 
+fabricated	63.txt
+face	8.txt
+face-to-face	15.txt
+faced	10.txt
+faces	24.txt
+facial	9.txt
+facilitate	32.txt 12.txt 19.txt 82.txt
+facilitated	14.txt 45.txt
+facilitates	6.txt 10.txt
+facilitating	31.txt 75.txt
+facilitation	64.txt
+fact	91.txt
+factor	14.txt
+factors	75.txt 87.txt 69.txt 6.txt 19.txt  68.txt
+failures	85.txt
+fairness	52.txt
+falling	98.txt
+familiar	95.txt
+family	62.txt
+far	24.txt 79.txt 5.txt
+farid’s	35.txt
+fashion	8.txt
+fast	4.txt 1.txt 48.txt
+faster	27.txt
+favour	29.txt
+feasibility	11.txt 63.txt
+feasible	55.txt 
+feature	18.txt 58.txt 35.txt 11.txt  22.txt 3.txt  34.txt
+features	11.txt 63.txt 9.txt   65.txt 36.txt     68.txt 35.txt 58.txt 48.txt 61.txt  47.txt   69.txt 83.txt 92.txt
+features—interaction	15.txt
+fed	18.txt
+federation	89.txt
+federation”	89.txt 
+feedback	7.txt
+feeling	86.txt
+femoral	45.txt
+few	61.txt 87.txt 79.txt 81.txt 76.txt
+fewer	36.txt
+fibers	45.txt   
+fictional	20.txt
+field	20.txt 7.txt  8.txt 73.txt 26.txt 63.txt   74.txt 14.txt 31.txt 10.txt  46.txt 95.txt 17.txt 79.txt   67.txt 24.txt  62.txt 12.txt   13.txt
+field-of-view	62.txt 
+fields	46.txt 14.txt 17.txt  86.txt 69.txt 24.txt
+file	40.txt
+filed	5.txt
+files	85.txt 96.txt
+fills	17.txt
+filtering	70.txt
+final	41.txt 93.txt 99.txt
+finally	93.txt 9.txt 4.txt 33.txt 46.txt 42.txt 78.txt 61.txt  59.txt 87.txt
+finance	28.txt 86.txt
+find	87.txt  92.txt 99.txt  41.txt 48.txt 72.txt 83.txt 57.txt
+finding	55.txt 86.txt 12.txt
+findings	68.txt 14.txt
+finite	49.txt
+firms	23.txt
+first	23.txt  63.txt 65.txt 52.txt 77.txt 87.txt 33.txt 36.txt 56.txt  95.txt 58.txt 99.txt 35.txt 80.txt 22.txt 40.txt 19.txt
+first-come-first-served	86.txt
+firstly	78.txt 58.txt 46.txt
+fitness	36.txt
+fitted	2.txt
+fitting	36.txt 46.txt 
+five	83.txt
+five-condition	15.txt
+fix	69.txt
+fixed	55.txt
+flexed	45.txt
+flexion	45.txt  
+flipped	100.txt   61.txt
+floating-point	41.txt 
+floor	6.txt
+flow	60.txt 
+flows	60.txt
+fluidity	48.txt
+flying	93.txt
+focal	69.txt 62.txt 
+focus	62.txt 69.txt 26.txt 17.txt 13.txt   91.txt
+focused	21.txt
+focuses	14.txt 71.txt 46.txt  19.txt
+focusing	11.txt 40.txt
+fog	6.txt   4.txt
+follow	62.txt 79.txt
+followed	61.txt 
+following	9.txt 74.txt 47.txt
+for	47.txt  79.txt 4.txt   69.txt   34.txt  57.txt      55.txt    2.txt   99.txt 23.txt        49.txt   52.txt 63.txt     29.txt 6.txt  12.txt   37.txt   27.txt     85.txt      16.txt  43.txt  14.txt  48.txt 50.txt 92.txt 70.txt     73.txt         61.txt    40.txt  93.txt  42.txt 18.txt  83.txt    77.txt  33.txt   21.txt 36.txt 84.txt   75.txt  25.txt 30.txt   58.txt   78.txt     31.txt      76.txt    56.txt  97.txt   53.txt  10.txt 51.txt  62.txt   46.txt 60.txt    38.txt  45.txt    81.txt        11.txt  26.txt   15.txt  28.txt   13.txt   17.txt   32.txt    71.txt     22.txt 72.txt  96.txt  82.txt  68.txt  59.txt      41.txt  80.txt  67.txt 24.txt  100.txt 35.txt  44.txt
+forced	26.txt
+forces	37.txt  40.txt 45.txt  
+forecasting	73.txt 95.txt
+forensics	35.txt  
+forged	92.txt 
+form	42.txt 91.txt
+form-factor	62.txt
+format	85.txt 40.txt
+formulation	60.txt
+forward-backward	55.txt
+fostering	61.txt
+found	61.txt 79.txt 57.txt 2.txt 73.txt 14.txt 45.txt 93.txt 98.txt 
+foundation	86.txt
+four	1.txt 19.txt 99.txt 23.txt
+foveal	62.txt   
+foveated	62.txt
+fpu	41.txt
+fragmentation	70.txt
+fragmented	12.txt
+frame	38.txt
+framework	2.txt 29.txt 14.txt 97.txt 74.txt 11.txt 71.txt  
+frameworks	33.txt
+franklin	99.txt 101.txt
+freezing	76.txt
+frequent	22.txt
+frequently	57.txt 73.txt 94.txt
+fresnel	69.txt
+friendly	85.txt
+from	85.txt 94.txt 57.txt 61.txt  92.txt 9.txt    64.txt 20.txt 41.txt  34.txt  65.txt 70.txt  23.txt  50.txt 48.txt 33.txt  60.txt 84.txt 90.txt   26.txt  83.txt 87.txt  14.txt 58.txt 37.txt 56.txt    93.txt  46.txt 66.txt 13.txt   99.txt 74.txt 96.txt 17.txt    98.txt 100.txt  68.txt  24.txt
+frontier	76.txt
+frontiers	27.txt 33.txt
+fruitful	33.txt
+frustration	100.txt
+fulfill	8.txt
+full	49.txt 52.txt 34.txt 69.txt
+full-color	63.txt
+fully	52.txt 79.txt 33.txt
+function	55.txt 21.txt  58.txt 2.txt 91.txt 15.txt 96.txt
+functionality	63.txt 69.txt
+functions	58.txt    41.txt 10.txt  53.txt   30.txt 2.txt   42.txt
+fundamental	23.txt 14.txt
+fundamentally	23.txt 12.txt
+further	14.txt 57.txt 19.txt 8.txt 63.txt 49.txt 37.txt 77.txt 25.txt 26.txt 33.txt 68.txt 51.txt 28.txt 13.txt 99.txt 82.txt 59.txt
+furthermore	76.txt 84.txt 82.txt 68.txt 7.txt 99.txt 3.txt
+fuse	9.txt
+future	47.txt 61.txt  12.txt  4.txt  19.txt 20.txt    57.txt   14.txt 70.txt 22.txt 63.txt 77.txt 75.txt 10.txt 31.txt  82.txt 54.txt 95.txt 33.txt 30.txt  68.txt 32.txt
+future”	40.txt
+fuzzy	89.txt
+gain	93.txt
+gained	76.txt 5.txt
+gaining	41.txt 45.txt
+galleries	17.txt
+game	52.txt 94.txt  96.txt 93.txt   99.txt 95.txt    28.txt
+game-based	99.txt
+games	96.txt   94.txt  55.txt  87.txt 93.txt  95.txt   
+gamification	78.txt     79.txt         
+gamified	78.txt  
+gaming	95.txt 
+gap	17.txt 11.txt
+gaps	52.txt
+gas	47.txt
+gates	49.txt
+gathered	78.txt 66.txt
+gaussian	46.txt
+gave	98.txt
+gaze	62.txt 
+gene	58.txt 
+genealogical	92.txt
+general	61.txt 52.txt 26.txt 22.txt 93.txt 28.txt 91.txt
+general-purpose	21.txt
+generalization	11.txt  73.txt
+generalized	55.txt 
+generally	26.txt 44.txt 66.txt
+generate	51.txt
+generated	35.txt 36.txt   99.txt 83.txt 34.txt
+generates	21.txt
+generating	5.txt 33.txt
+generation	6.txt
+genes	58.txt
+genetic	92.txt     94.txt 
+genetics	92.txt
+genomic	58.txt
+genotype	92.txt
+genotypes	31.txt
+geometry	47.txt
+germline	58.txt
+gestural	12.txt
+gesture	16.txt    14.txt     18.txt   11.txt   13.txt 
+gesture-based	14.txt   18.txt
+gestures	13.txt 16.txt 14.txt      11.txt 
+get	7.txt
+getting	70.txt
+girls	93.txt
+given	64.txt 1.txt 13.txt 55.txt 42.txt  54.txt
+gives	31.txt 50.txt 28.txt
+giving	7.txt 23.txt
+glimpse	31.txt
+global	50.txt
+globally	85.txt 55.txt
+gne	55.txt 
+go	21.txt 10.txt 72.txt
+goal	29.txt 82.txt 14.txt
+going	83.txt
+good	11.txt
+governance	48.txt 29.txt
+gpu-accelerated	69.txt
+grade	93.txt
+gradually	95.txt 25.txt
+graphic	47.txt    42.txt       
+graphical	45.txt
+graphics	41.txt  69.txt 38.txt  43.txt    34.txt   36.txt   39.txt     37.txt    35.txt 42.txt     47.txt     46.txt   40.txt   44.txt
+graphics-based	45.txt
+graphics1	40.txt
+grappling	24.txt
+great	11.txt 36.txt 63.txt 5.txt 7.txt 
+greater	10.txt
+greatly	29.txt 41.txt 11.txt 21.txt 6.txt 42.txt  
+ground	49.txt  12.txt
+group	64.txt 87.txt
+groups	82.txt 
+growing	86.txt 74.txt
+growth	21.txt  8.txt 29.txt 94.txt 5.txt
+guarantee	52.txt
+guaranteed	2.txt
+guidance	57.txt 26.txt
+guide	82.txt 19.txt 85.txt 22.txt
+guides	11.txt
+gynecologic	26.txt
+habituation	91.txt    
+had	99.txt  40.txt 
+half	2.txt 45.txt 
+half-mirror	62.txt
+hamiltonian	49.txt
+hand	10.txt  11.txt   16.txt   52.txt  14.txt 
+hand-designed	1.txt
+handheld	43.txt
+handling	5.txt 
+hands-free	65.txt
+happens	59.txt
+hard	72.txt 41.txt 83.txt 64.txt
+hard-thinking	98.txt
+hardly	76.txt
+hardware	69.txt  13.txt 10.txt 97.txt 70.txt  16.txt
+harmonization	88.txt
+harnessing	49.txt
+has	49.txt 58.txt 12.txt    28.txt 95.txt  33.txt 82.txt  92.txt  23.txt 37.txt 36.txt 4.txt 13.txt 26.txt 21.txt  42.txt 27.txt  73.txt   76.txt 65.txt 96.txt 54.txt 18.txt 77.txt 83.txt  94.txt    84.txt 79.txt 68.txt 85.txt 52.txt 32.txt
+have	32.txt 37.txt   16.txt 58.txt 53.txt 49.txt 28.txt 50.txt 43.txt 71.txt   82.txt   33.txt 14.txt  5.txt   27.txt 24.txt  65.txt  76.txt  79.txt  94.txt 86.txt 70.txt   63.txt 17.txt  57.txt 99.txt 87.txt 64.txt 31.txt  11.txt 46.txt 
+having	21.txt 26.txt 98.txt
+hci	16.txt 13.txt 19.txt 11.txt   15.txt 17.txt   
+hcis	17.txt
+head-mounted	18.txt 
+heads	64.txt
+headset	64.txt   
+health	32.txt  5.txt 26.txt 
+healthcare	25.txt  28.txt 4.txt           30.txt    
+healthy	42.txt
+heat	50.txt  
+heavy	71.txt
+hedonomics	19.txt
+heighten	15.txt
+held	20.txt 39.txt
+help	100.txt 14.txt 76.txt
+helped	26.txt 98.txt
+helpful	98.txt 
+helps	45.txt
+hence	58.txt 60.txt
+here	56.txt 50.txt 63.txt
+heritage	17.txt  26.txt
+heterogeneous	8.txt 37.txt 54.txt   
+heuristic	8.txt
+hf	19.txt
+hfhci	19.txt  
+hidden	3.txt 99.txt
+hidden-layer	3.txt 
+hierarchical	99.txt
+hierarchy	6.txt
+high	44.txt 63.txt 45.txt 82.txt 69.txt    70.txt 
+high-performance	32.txt 63.txt
+high-quality	82.txt 
+high-resolution	62.txt
+high-speed	6.txt
+higher	9.txt 23.txt 81.txt
+higher-order	97.txt
+highest	9.txt
+highlight	96.txt 79.txt
+highlighted	1.txt 5.txt 4.txt
+highly	33.txt 29.txt 82.txt 85.txt
+him	26.txt
+hinders	63.txt 16.txt
+his	40.txt 93.txt
+histogram	36.txt
+history	15.txt  67.txt
+hitherto	95.txt
+holds	72.txt
+holograms	69.txt
+holographic	69.txt   62.txt
+holography	69.txt
+hololens	65.txt  
+honeymoon	37.txt
+hope	8.txt
+hour	99.txt
+how	99.txt 95.txt  74.txt    17.txt 22.txt  43.txt 79.txt 64.txt 40.txt   76.txt 61.txt 37.txt  52.txt 50.txt 78.txt 96.txt   82.txt 11.txt 
+however	11.txt 76.txt 17.txt 99.txt  29.txt 12.txt 91.txt 20.txt 58.txt 64.txt 79.txt  43.txt 33.txt 66.txt  61.txt 15.txt 48.txt 14.txt  52.txt  31.txt 41.txt 87.txt
+huge	86.txt
+human	11.txt 12.txt 32.txt 30.txt 19.txt  22.txt 16.txt  26.txt  44.txt 45.txt 58.txt  27.txt 25.txt 31.txt 14.txt 23.txt   96.txt
+human-computer	17.txt  13.txt  12.txt   11.txt  18.txt   15.txt  14.txt
+human-machine	11.txt
+humans	23.txt
+humans’	14.txt
+human–computer	19.txt  20.txt  
+human–machine	23.txt
+hurdles	30.txt
+hurried	86.txt
+hybrid	65.txt 49.txt 8.txt
+hyper-parameter	2.txt 
+hypothesis	79.txt
+hz	69.txt
+i	95.txt   19.txt 97.txt   40.txt 
+i2b	97.txt
+iaas	7.txt
+ibm	30.txt
+ict	21.txt 
+idea	60.txt 8.txt
+ideal	67.txt
+ideally	65.txt
+ideal”	15.txt
+ideas	21.txt 33.txt 80.txt
+identification	36.txt  58.txt    11.txt
+identified	79.txt  90.txt 14.txt 82.txt  66.txt
+identifies	22.txt 12.txt 51.txt
+identify	95.txt 73.txt 82.txt  14.txt  10.txt 81.txt 48.txt 84.txt 25.txt 87.txt
+identifying	100.txt
+ie	35.txt 97.txt
+if	76.txt 74.txt 92.txt 
+ignorance	31.txt
+ignore	91.txt
+iliopoulos	56.txt
+illustrate	53.txt 71.txt 72.txt
+illustrated	59.txt
+illustration	40.txt
+illustrations	17.txt
+image	27.txt 32.txt 9.txt  36.txt  96.txt 42.txt      46.txt            62.txt 28.txt 34.txt 37.txt 47.txt 35.txt 
+image-based	27.txt
+imagery	3.txt 
+images	35.txt   36.txt      46.txt  42.txt 27.txt 34.txt 
+imagine	21.txt
+imaging	63.txt 27.txt
+imbalance	8.txt
+imbalanced	8.txt
+imbuing	15.txt
+imitating	13.txt
+imitation	52.txt 
+immature	82.txt
+immensely	92.txt
+immersed	3.txt
+immersive	13.txt
+impact	17.txt 23.txt 31.txt 32.txt 74.txt 79.txt 50.txt
+impacted	96.txt
+impersonate	91.txt
+implementation	69.txt 79.txt 73.txt 78.txt 10.txt 14.txt 53.txt
+implementations	71.txt
+implemented	70.txt 11.txt 66.txt 14.txt
+implementing	39.txt
+implication	23.txt
+implications	92.txt 15.txt  25.txt
+implies	26.txt
+importance	23.txt  15.txt 41.txt
+important	50.txt 21.txt 11.txt  23.txt  42.txt  94.txt 10.txt
+importantly	78.txt
+impose	41.txt
+imposed	63.txt
+improper	22.txt
+improve	22.txt 43.txt 74.txt 31.txt 32.txt 56.txt 41.txt 66.txt  65.txt 11.txt  10.txt 
+improved	67.txt 46.txt 66.txt 81.txt
+improvement	50.txt 73.txt
+improvements	32.txt 35.txt  57.txt
+improves	62.txt
+improving	32.txt 98.txt 4.txt 83.txt 79.txt 
+imputation	51.txt  
+in	51.txt   79.txt         81.txt    25.txt      8.txt            85.txt   95.txt    6.txt    88.txt 14.txt      40.txt    99.txt     76.txt       82.txt     59.txt   54.txt               26.txt       39.txt        28.txt        17.txt      97.txt  27.txt        87.txt          29.txt    30.txt               86.txt   98.txt    32.txt    57.txt       78.txt 19.txt   55.txt   92.txt   80.txt 36.txt  74.txt    22.txt        93.txt    91.txt   43.txt   24.txt 96.txt  62.txt    73.txt          21.txt    64.txt     31.txt         45.txt           12.txt    67.txt    70.txt       16.txt  90.txt 71.txt   75.txt   44.txt 83.txt           66.txt  10.txt        41.txt      15.txt   23.txt     94.txt  33.txt  77.txt      56.txt     53.txt  35.txt  52.txt  60.txt 20.txt      46.txt    61.txt     58.txt    50.txt     11.txt               37.txt   48.txt     65.txt     47.txt  42.txt     84.txt  68.txt          18.txt 100.txt           49.txt
+in-class	100.txt
+in-depth	81.txt 4.txt
+inaccessible	69.txt
+incidents	89.txt 
+include	30.txt  61.txt 18.txt 47.txt 68.txt
+included	80.txt 70.txt 66.txt 
+includes	88.txt 26.txt 13.txt 90.txt 20.txt 
+including	66.txt 26.txt  19.txt 32.txt 92.txt 4.txt 18.txt  42.txt
+incoherent	49.txt
+incompressible	60.txt
+incorporate	66.txt 22.txt 69.txt
+incorporation	29.txt
+increase	29.txt 8.txt 59.txt 57.txt 42.txt 15.txt
+increased	46.txt 94.txt
+increasing	59.txt 66.txt 68.txt 67.txt 15.txt 41.txt 30.txt
+increasingly	29.txt 13.txt 27.txt 23.txt
+indeed	87.txt 15.txt
+index	94.txt 68.txt
+indexes	85.txt
+india	21.txt
+indicate	70.txt
+indicated	100.txt 99.txt
+indicator	8.txt
+indicators	70.txt
+individuals	20.txt 92.txt
+induction	19.txt
+industrial	80.txt 70.txt   83.txt 77.txt 46.txt 21.txt
+industries	7.txt    
+industries-related	7.txt
+industry	70.txt 42.txt     44.txt  48.txt    
+inefficient	8.txt
+infancy	79.txt 33.txt
+inferred	88.txt
+influence	7.txt 22.txt
+influences	57.txt
+inform	14.txt 91.txt
+informatics	26.txt
+information	26.txt 85.txt 92.txt   14.txt 21.txt 55.txt 38.txt 96.txt 89.txt  88.txt  90.txt 79.txt 18.txt 35.txt 11.txt  61.txt
+informative	58.txt
+infrared	62.txt
+infrastructure	25.txt 82.txt  7.txt 10.txt  88.txt 11.txt
+inherent	1.txt
+inhibition	64.txt
+initial	2.txt  60.txt 100.txt 59.txt 66.txt
+initialization	3.txt
+initially	77.txt
+innovation	26.txt 23.txt
+innovations	48.txt
+innovative	59.txt 23.txt 18.txt
+input	18.txt 9.txt 3.txt
+inputs	94.txt
+inquiry-based	61.txt
+insect	97.txt 
+inserts	90.txt
+insight	99.txt 45.txt
+insightful	79.txt
+insights	17.txt 80.txt 74.txt 20.txt
+inspiration	74.txt  
+inspire	33.txt
+inspired	40.txt
+install	96.txt 
+installation	10.txt
+instance	76.txt
+instead	95.txt
+institute	47.txt 
+institutions	73.txt
+instructional	61.txt  100.txt
+instrumented	12.txt
+insufficient	99.txt 76.txt
+integrate	43.txt
+integrated	88.txt
+integrates	69.txt 17.txt
+integrating	52.txt
+integration	29.txt   23.txt 27.txt 
+integrity	58.txt
+intelligence	27.txt    26.txt  28.txt   30.txt  88.txt   32.txt  25.txt  33.txt    24.txt   21.txt        31.txt  23.txt    41.txt 11.txt 22.txt    29.txt   95.txt
+intelligences	23.txt  
+intelligent	21.txt 26.txt  97.txt   20.txt 37.txt 11.txt
+intensive	83.txt
+intent	101.txt
+inter-action	43.txt
+inter-rater	100.txt
+interacting	58.txt
+interaction	43.txt  15.txt    13.txt     39.txt 18.txt   19.txt  64.txt 12.txt     61.txt 14.txt      16.txt  11.txt  37.txt 17.txt 70.txt 20.txt  
+interactions	43.txt 64.txt 17.txt
+interactive	17.txt 40.txt  15.txt 71.txt 97.txt
+interactivity	15.txt   
+interchangeably	72.txt
+interdependent	15.txt
+interdisciplinary	26.txt
+interdiscipline	33.txt
+interest	33.txt 10.txt 4.txt 86.txt 28.txt 68.txt 66.txt
+interested	79.txt
+interests	1.txt
+interface	18.txt  38.txt    11.txt  16.txt 45.txt 15.txt
+interfaces	14.txt      13.txt    
+intermediate	3.txt
+intermittent	11.txt
+internet	8.txt 85.txt 33.txt  86.txt  4.txt  29.txt 37.txt 96.txt      
+internet-of-things	41.txt
+interoperable	10.txt
+interpret	99.txt
+interpretability	28.txt
+interpretation	32.txt
+interpretive	82.txt
+intersection	95.txt
+intervention	17.txt 26.txt
+interventions	61.txt
+interviewing	78.txt
+interviews	78.txt
+into	66.txt   74.txt 97.txt  18.txt  27.txt 69.txt 86.txt 57.txt 99.txt 25.txt 82.txt 3.txt 45.txt 16.txt
+intraoperative	65.txt
+intricacies	85.txt
+intrinsic	85.txt
+introduce	55.txt 9.txt 87.txt 35.txt
+introduced	54.txt 77.txt 40.txt 6.txt 46.txt 5.txt 3.txt
+introduces	46.txt
+introducing	10.txt 19.txt
+introduction	66.txt 73.txt
+introductory	43.txt 87.txt
+intuitive	23.txt     43.txt  16.txt
+inventing	96.txt
+invention	96.txt 26.txt
+investigate	61.txt 14.txt 87.txt 93.txt
+investigated	61.txt 36.txt 67.txt
+investigates	44.txt
+investigating	43.txt
+investigation	95.txt
+investigations	92.txt
+invited	40.txt
+involve	43.txt
+involved	77.txt 
+involvement	95.txt
+involving	50.txt
+ioe	96.txt
+iot	96.txt  33.txt  29.txt 4.txt         
+iot-based	4.txt
+iran	94.txt
+is	94.txt   96.txt 7.txt  61.txt 73.txt       80.txt 63.txt 51.txt     66.txt   52.txt 11.txt        26.txt      13.txt   91.txt      100.txt  58.txt  47.txt 48.txt 10.txt   35.txt 97.txt     83.txt 28.txt   15.txt     76.txt 85.txt   21.txt 18.txt   62.txt 74.txt  50.txt  27.txt   20.txt 98.txt 39.txt  30.txt 87.txt  14.txt 57.txt   72.txt 19.txt 24.txt  43.txt   40.txt  99.txt 79.txt     92.txt  86.txt  46.txt       69.txt  41.txt   60.txt         33.txt          25.txt 89.txt 82.txt     16.txt  23.txt   32.txt 31.txt  56.txt   53.txt 44.txt  67.txt   29.txt 36.txt        64.txt 22.txt 59.txt     71.txt  70.txt  42.txt
+issue	80.txt 91.txt 8.txt 83.txt  81.txt
+issues	91.txt 7.txt 52.txt 28.txt 76.txt 17.txt  39.txt 87.txt 19.txt 79.txt 70.txt 4.txt 77.txt 29.txt 
+it	6.txt 41.txt  96.txt 61.txt  73.txt  18.txt 11.txt   7.txt  35.txt 48.txt 91.txt  21.txt 15.txt 85.txt  87.txt 57.txt 27.txt 14.txt 98.txt 30.txt 39.txt 40.txt 72.txt  43.txt 24.txt   17.txt  46.txt 65.txt 86.txt 92.txt 79.txt 83.txt 60.txt 82.txt  23.txt 77.txt 67.txt 71.txt  36.txt    34.txt 59.txt  22.txt 
+it-based	72.txt
+items	26.txt
+iterate	48.txt
+iteration	2.txt
+iterations	65.txt 46.txt
+iterative	2.txt
+its	2.txt 46.txt  94.txt 58.txt 10.txt 57.txt 28.txt 87.txt 30.txt 40.txt 79.txt 33.txt 55.txt  31.txt  32.txt 77.txt
+itself	96.txt
+ivan	40.txt
+ivano-frankivsk	47.txt
+j	60.txt 
+january	89.txt
+japan’s	21.txt
+jiang	60.txt
+jira	81.txt
+job	23.txt  
+jobs	23.txt
+job’s	23.txt 
+join	40.txt
+joint	45.txt    
+journal	66.txt
+joysticks	96.txt
+jpeg	36.txt
+july	87.txt
+june	87.txt
+just	20.txt 24.txt 29.txt
+justifications	1.txt
+justifies	89.txt
+k	89.txt 51.txt  
+k-12	87.txt 99.txt
+k-fold	58.txt
+k-parameter	51.txt
+kansei	19.txt
+kappa	100.txt
+keep	51.txt
+kernel	2.txt  
+kernels	41.txt
+key	29.txt 63.txt 8.txt 46.txt 75.txt 97.txt 91.txt 11.txt 80.txt 10.txt 50.txt 48.txt 17.txt  24.txt 33.txt 79.txt 21.txt 70.txt
+keyboard	16.txt
+kind	52.txt
+kinect	37.txt
+kinematics	45.txt
+knee	45.txt  
+knees	45.txt
+knn	51.txt   
+know	55.txt 
+knowers	99.txt
+knowledge	48.txt 61.txt 78.txt 93.txt   27.txt  17.txt 79.txt 31.txt
+known	5.txt 29.txt 74.txt 65.txt 64.txt
+kpi	70.txt
+l1	2.txt
+label	34.txt
+labeled	32.txt
+labor	23.txt 26.txt
+laboratory	100.txt 73.txt 27.txt
+lack	91.txt 32.txt 28.txt  52.txt 21.txt 79.txt 82.txt 71.txt
+lacking	67.txt
+lacks	70.txt
+lake	94.txt 
+language	100.txt 1.txt 30.txt 99.txt 97.txt   42.txt 98.txt   40.txt 96.txt
+languages	99.txt
+laqt	88.txt
+large	70.txt 6.txt  63.txt 75.txt 50.txt 28.txt 92.txt 82.txt  
+large-area	63.txt
+large-scale	6.txt 99.txt
+larger-scale	49.txt
+largest	58.txt
+laser	62.txt
+last	70.txt 87.txt 24.txt 52.txt 33.txt 28.txt
+lasting	26.txt
+latency	6.txt
+later	48.txt 96.txt 85.txt
+latest	48.txt 39.txt 10.txt 4.txt
+lattice	97.txt   
+lattices	73.txt
+launching	16.txt
+layer	34.txt 3.txt
+laying	24.txt
+lays	23.txt
+layton	60.txt
+lbf	46.txt
+lda	11.txt
+lead	70.txt 65.txt 92.txt 79.txt
+leading	24.txt 15.txt 66.txt
+leads	8.txt 4.txt 91.txt
+leap	13.txt 
+learn	100.txt  99.txt 
+learning	99.txt  41.txt  73.txt 58.txt   28.txt  31.txt 37.txt 93.txt     82.txt  22.txt     30.txt  11.txt       26.txt 79.txt 61.txt       27.txt 80.txt  43.txt  100.txt   25.txt 71.txt     33.txt  21.txt  52.txt 
+learnt	51.txt
+least	93.txt 2.txt
+lecture	100.txt
+led	13.txt 76.txt
+left	84.txt
+legal	25.txt
+legitimate	91.txt
+leonardo	26.txt
+less	23.txt 7.txt 15.txt 64.txt  16.txt
+lesser	79.txt
+lesson	67.txt 
+level	58.txt    23.txt  90.txt 97.txt
+levels	97.txt 32.txt 14.txt
+leverage	49.txt 2.txt
+leveraging	81.txt
+lexical	88.txt
+lgif	46.txt
+library	76.txt 
+lie	65.txt
+life	67.txt 96.txt  21.txt 
+life-cycle	76.txt
+lifecycle	6.txt
+lifetimes	49.txt
+ligament	45.txt    
+ligaments	45.txt 
+light	63.txt 28.txt 69.txt 
+like	24.txt 16.txt  8.txt 96.txt 87.txt
+likely	32.txt
+limit	10.txt
+limitations	10.txt 32.txt 84.txt 8.txt 21.txt 70.txt
+limited	49.txt 27.txt
+limits	27.txt
+linear	11.txt 60.txt 88.txt 36.txt 53.txt
+linear-size	56.txt
+linear-time	56.txt 
+lisbon	39.txt
+list	1.txt 78.txt
+listening	96.txt
+literature	45.txt 79.txt 77.txt 73.txt 14.txt 91.txt 70.txt 65.txt 67.txt 66.txt  61.txt 78.txt 68.txt 95.txt 
+little	74.txt 14.txt 7.txt
+liveability	29.txt 
+lives	96.txt 71.txt
+living	4.txt
+lizard	88.txt
+lmc	13.txt
+local	51.txt 53.txt 52.txt 55.txt   34.txt  46.txt 
+locality	51.txt
+location	62.txt 85.txt
+locations	90.txt
+log	56.txt 85.txt 
+logging	85.txt 
+logic	89.txt
+logically	88.txt
+logs	85.txt
+lom	88.txt
+long	11.txt 50.txt
+looking	29.txt
+loop	15.txt
+losses	94.txt
+louisiana	24.txt
+low	66.txt 45.txt 81.txt 69.txt 71.txt 48.txt 98.txt 2.txt
+low-latency	6.txt
+lower	23.txt
+lower”	23.txt
+lpp	51.txt
+m-estimator	2.txt
+machine	28.txt 1.txt 80.txt  41.txt  88.txt 22.txt  30.txt  25.txt 58.txt 27.txt 96.txt   36.txt 9.txt 3.txt 11.txt
+machine-learning	31.txt  80.txt
+machines	23.txt 26.txt 
+macint	88.txt
+made	24.txt 73.txt 41.txt 89.txt 35.txt 70.txt 57.txt  27.txt
+magnetohydrodynamic	60.txt
+magnifier	62.txt
+magnitude	50.txt 35.txt
+main	26.txt 82.txt   5.txt  91.txt 10.txt 68.txt
+mainly	21.txt 46.txt
+maintain	11.txt
+maintained	36.txt
+maintenance	70.txt     83.txt
+major	23.txt 28.txt 37.txt 30.txt  70.txt 40.txt
+majority	81.txt 64.txt 14.txt
+make	52.txt
+makers	29.txt
+makes	76.txt
+makespan	8.txt
+making	26.txt 85.txt 
+malware	90.txt
+manage	27.txt
+management	49.txt 26.txt  29.txt 52.txt 10.txt 
+managers	72.txt
+managing	76.txt
+manipulate	37.txt
+manipulated	92.txt
+manipulation	63.txt 37.txt 43.txt
+manner	8.txt
+manually	81.txt
+manufacturing	6.txt       44.txt
+many	41.txt 87.txt 24.txt   66.txt 58.txt 72.txt 28.txt   86.txt 76.txt 65.txt 82.txt 29.txt 21.txt 
+map	14.txt 11.txt 95.txt
+mapping	79.txt  82.txt
+march	100.txt
+marine	42.txt   
+marked	32.txt
+markedly	32.txt
+marker-	16.txt
+market	4.txt 48.txt 55.txt
+marketers	74.txt
+marketing	74.txt  
+markov	54.txt
+mass	44.txt 63.txt
+mastering	40.txt
+matching	92.txt       
+material	47.txt
+materialism	95.txt
+mathematics	43.txt 61.txt
+matlab	53.txt
+matrix	60.txt 51.txt 
+mature	67.txt 48.txt
+maturity	70.txt 14.txt
+maximizing	52.txt
+maxwellian-view	62.txt
+may	52.txt 65.txt 31.txt 35.txt 10.txt 100.txt 56.txt 59.txt
+maze	99.txt
+mcgraw-hill	40.txt
+mcu	96.txt
+mdb-splines	53.txt  
+me	40.txt
+mean	2.txt 24.txt 72.txt
+meaning	26.txt
+means	69.txt 46.txt 54.txt
+meanwhile	36.txt
+mechanical	23.txt 47.txt 44.txt
+mechanisms	5.txt     19.txt 61.txt
+media	96.txt 37.txt 
+mediate	15.txt
+mediating	74.txt
+medical	46.txt  32.txt 26.txt   25.txt  21.txt 4.txt
+medicine	26.txt   24.txt 32.txt  31.txt      22.txt  
+medium	7.txt 43.txt
+meet	65.txt 33.txt 42.txt
+meeting	24.txt
+meets	37.txt 89.txt 65.txt
+memory	88.txt
+mentioned	76.txt
+merely	52.txt 21.txt
+merges	65.txt
+merging	7.txt
+message	15.txt   85.txt 91.txt
+messages	15.txt   85.txt
+messaging	85.txt 
+met	64.txt
+meta-heuristic	8.txt
+metabolism	29.txt
+metacognitive	61.txt
+metalens	63.txt  
+metaphors	13.txt
+metasurface	63.txt  
+metasurfaces	63.txt
+method	94.txt 90.txt 71.txt 59.txt    2.txt          99.txt   46.txt   58.txt 86.txt 67.txt 3.txt   34.txt  78.txt   11.txt 
+methodological	73.txt
+methodologies	43.txt 19.txt
+methodology	7.txt
+methods	19.txt 58.txt   13.txt   22.txt   10.txt 94.txt  83.txt 36.txt 46.txt     55.txt  66.txt   24.txt 34.txt 30.txt 38.txt 78.txt
+mhd	60.txt  
+microcontroller	96.txt
+microdisplay	62.txt 
+microscopic	27.txt
+microsoft’s	65.txt
+middle	98.txt
+might	56.txt
+mile	33.txt
+military	46.txt
+millions	92.txt
+mimic	31.txt 30.txt 52.txt
+mind	93.txt
+minimal	26.txt
+minimization	49.txt
+minimizing	52.txt 
+minimum	93.txt 16.txt 48.txt
+mining	88.txt 51.txt
+minor	69.txt
+misbehavior	76.txt
+misclassified	84.txt
+misdirect	92.txt
+missing	51.txt  
+mistakes	99.txt 
+mitigate	92.txt 76.txt 24.txt 49.txt
+mixed	72.txt  65.txt   
+ml	80.txt   
+mm-estimator	2.txt 
+mobile	54.txt   74.txt  33.txt  73.txt 96.txt 71.txt      12.txt 43.txt 
+mode	14.txt 100.txt
+model	37.txt 21.txt  58.txt       2.txt 77.txt 45.txt  69.txt 26.txt 33.txt 36.txt  46.txt    
+model's	28.txt
+modeling	22.txt
+modelled	45.txt 
+modelling	43.txt
+models	80.txt 21.txt 4.txt 50.txt  58.txt 28.txt 46.txt   
+modern	7.txt  13.txt 73.txt 11.txt  59.txt 30.txt 27.txt
+modes	14.txt
+modifications	57.txt       
+modified	57.txt
+modulator	69.txt
+molecular	49.txt
+molecule	49.txt
+molecules	58.txt    73.txt
+monitored	93.txt
+monotone	55.txt
+monte	2.txt
+monthly	94.txt
+mooc	87.txt
+more	87.txt  100.txt  95.txt 23.txt   93.txt 43.txt 42.txt 35.txt 91.txt 50.txt 33.txt 86.txt   28.txt  12.txt   78.txt 30.txt
+moreover	4.txt 5.txt 58.txt
+morphology	29.txt
+mortality	31.txt
+most	93.txt 87.txt  57.txt  21.txt 50.txt 43.txt 99.txt 61.txt  91.txt 42.txt 73.txt  67.txt 92.txt 70.txt 64.txt 79.txt
+mostly	79.txt 23.txt   41.txt
+motion	13.txt 
+motivated	85.txt
+motivates	79.txt
+motivating	82.txt
+motivation	33.txt
+motor	3.txt 
+mouse	43.txt 16.txt
+moved	45.txt
+movements	45.txt 62.txt
+movie	15.txt
+mr	72.txt
+mse	2.txt
+much	40.txt 51.txt 24.txt 29.txt
+multi-agent	52.txt
+multi-degree	53.txt    
+multi-dimensional	18.txt
+multi-fractal	36.txt 
+multi-layer	90.txt
+multi-modal	18.txt
+multicore	59.txt   
+multiple	36.txt 85.txt  48.txt 97.txt 38.txt 52.txt
+multitasking	96.txt
+multitude	14.txt
+museum	17.txt
+museums	17.txt   
+music	96.txt
+must	29.txt
+myoelectric	11.txt 
+n	15.txt
+n-time	56.txt
+named	26.txt
+namely	10.txt 9.txt 1.txt
+names	47.txt
+naming	87.txt
+nanoimprinted	63.txt
+nanorobots	26.txt
+narrow	63.txt
+nascent	49.txt
+nash	52.txt 55.txt 
+national	47.txt
+natural	30.txt 36.txt   1.txt 34.txt 43.txt 13.txt  14.txt 16.txt
+naturalistic	93.txt
+nature	14.txt 8.txt 
+navigation	67.txt
+near	31.txt
+near-eye	63.txt 69.txt  62.txt
+nearly	45.txt 22.txt 72.txt 83.txt
+need	41.txt 100.txt  73.txt 49.txt  75.txt 79.txt 66.txt 61.txt  7.txt 82.txt 60.txt 43.txt 33.txt 76.txt
+needed	96.txt
+needs	67.txt 55.txt 47.txt 48.txt
+neighborhood	97.txt
+neighbours	55.txt
+neither	86.txt
+net	62.txt
+network	97.txt 9.txt 58.txt 76.txt 30.txt 10.txt  3.txt   34.txt 1.txt   33.txt      
+networked	55.txt
+networking	10.txt    6.txt
+networks	55.txt 54.txt     37.txt 52.txt 27.txt 1.txt  34.txt
+neural	34.txt  37.txt 19.txt 58.txt  30.txt 1.txt  
+neurology	30.txt
+never	64.txt
+new	76.txt 72.txt 37.txt 97.txt 96.txt     80.txt 49.txt 26.txt 40.txt  21.txt   100.txt  75.txt 29.txt   99.txt 33.txt 24.txt  12.txt  8.txt 101.txt 92.txt  82.txt
+newcomer	85.txt
+newly	66.txt
+newman	40.txt
+next-generation	21.txt
+ni	36.txt  
+no	87.txt 86.txt 73.txt 2.txt 17.txt 89.txt 93.txt 
+nodal	62.txt 
+nodes	54.txt 88.txt 3.txt
+noise	36.txt 69.txt
+non	58.txt
+non-linear	45.txt
+non-linearity	9.txt
+non-standard	76.txt
+noncooperative	55.txt
+nonlinear	59.txt  
+nonverbal	64.txt 
+nor	86.txt
+nordic	20.txt
+norm	51.txt
+north	50.txt
+northern	100.txt
+not	50.txt 69.txt 46.txt 65.txt 71.txt 76.txt 95.txt 72.txt 64.txt  59.txt 22.txt 87.txt 86.txt 29.txt 67.txt 74.txt 20.txt 11.txt 15.txt 99.txt  98.txt 14.txt   52.txt
+note	40.txt
+notes	40.txt 
+notify	91.txt
+novel	69.txt 54.txt 31.txt 63.txt 51.txt  35.txt 92.txt 74.txt 18.txt   99.txt
+november	76.txt 66.txt
+novice	57.txt
+now	96.txt 92.txt 70.txt
+number	70.txt 57.txt 56.txt  54.txt 46.txt 41.txt 58.txt 49.txt  82.txt 89.txt 61.txt 
+numbers	59.txt
+numeric	59.txt
+numerical	55.txt 50.txt 63.txt 60.txt
+numerous	4.txt
+nutshell	39.txt
+object	73.txt
+objective	91.txt 93.txt  55.txt 2.txt 10.txt 8.txt
+objectives	93.txt  
+objectivity	88.txt
+objects	43.txt
+observation	2.txt
+observation-action	52.txt
+observations	52.txt    45.txt
+observe	50.txt
+observed	50.txt  18.txt 93.txt    
+obtain	98.txt
+obtained	59.txt 6.txt 18.txt
+occupied	64.txt
+occur	58.txt 92.txt
+occurrences	56.txt
+occurs	23.txt
+of	23.txt        56.txt       64.txt             2.txt               39.txt    70.txt          40.txt            76.txt             67.txt        94.txt    52.txt               100.txt       61.txt         46.txt          19.txt      66.txt           45.txt        73.txt                     54.txt               83.txt  57.txt          97.txt  16.txt 69.txt    65.txt    44.txt      81.txt   71.txt           37.txt    34.txt   92.txt       98.txt               91.txt       62.txt             95.txt          26.txt            53.txt         60.txt        31.txt        72.txt   75.txt  99.txt   80.txt     51.txt  18.txt 59.txt             41.txt        42.txt              32.txt     49.txt        29.txt            47.txt          86.txt      87.txt      77.txt      84.txt   22.txt    79.txt        85.txt   58.txt                  55.txt         82.txt              12.txt    48.txt       30.txt      20.txt                  36.txt                21.txt   24.txt   33.txt           11.txt        43.txt    63.txt         17.txt       35.txt 10.txt       28.txt       38.txt      93.txt        15.txt         27.txt      13.txt        25.txt  78.txt      68.txt    50.txt        89.txt                 74.txt  96.txt  14.txt                   90.txt  
+off	62.txt
+off-the-shelf	84.txt
+offer	84.txt 95.txt 10.txt
+offered	61.txt  92.txt 41.txt
+offering	100.txt
+offers	27.txt
+office	40.txt
+officially	26.txt
+offloading	52.txt    54.txt 
+often	72.txt 79.txt 14.txt
+oil	47.txt
+old	40.txt
+ols	2.txt  
+omics”	26.txt
+on	2.txt  40.txt  14.txt  64.txt   56.txt  9.txt  71.txt 67.txt  76.txt    84.txt  94.txt  47.txt 46.txt      19.txt 3.txt  45.txt 73.txt  44.txt 97.txt 83.txt   57.txt 69.txt  37.txt  34.txt 91.txt   98.txt   61.txt  62.txt  22.txt 53.txt 10.txt  99.txt   80.txt  18.txt 59.txt  52.txt      29.txt 49.txt  77.txt  87.txt 86.txt  79.txt 21.txt   48.txt   58.txt  12.txt  55.txt    20.txt   36.txt 35.txt  11.txt   24.txt  33.txt    17.txt 43.txt 63.txt 96.txt     28.txt 13.txt     101.txt 15.txt   74.txt  68.txt  78.txt  89.txt      88.txt  50.txt
+on-demand	7.txt
+on-site	17.txt
+once	27.txt 60.txt
+one	64.txt  92.txt 56.txt  5.txt 52.txt  50.txt 24.txt 35.txt 43.txt
+ones	40.txt 29.txt 24.txt
+online	87.txt  77.txt 100.txt
+only	60.txt 27.txt 67.txt 66.txt 46.txt 37.txt 69.txt 98.txt 99.txt 55.txt 25.txt
+onto	40.txt
+open	84.txt 10.txt 56.txt 77.txt
+opening	16.txt
+opens	50.txt 6.txt
+operating	65.txt  38.txt  96.txt
+operation	96.txt
+operational	4.txt
+operations	70.txt 88.txt
+operatives	92.txt
+operator	53.txt 55.txt 
+operators	55.txt 87.txt 97.txt
+opponents	92.txt
+opportunities	4.txt 77.txt 10.txt 27.txt 72.txt 29.txt 33.txt 68.txt
+optical	69.txt  62.txt 63.txt
+optics	62.txt
+optimal	57.txt   31.txt
+optimization	3.txt 44.txt
+optimize	3.txt 2.txt 34.txt 8.txt 38.txt
+optimized	94.txt 3.txt 
+optimizing	11.txt
+or	26.txt 39.txt 96.txt  76.txt  60.txt 92.txt   64.txt 45.txt 38.txt   61.txt 91.txt 69.txt 43.txt 32.txt 49.txt 59.txt  85.txt 82.txt   20.txt 53.txt 33.txt 50.txt 13.txt 15.txt
+orchestrating	85.txt
+orchestration	10.txt
+order	23.txt 57.txt   2.txt 45.txt
+orders	50.txt
+ordinary	2.txt 96.txt
+organisms	20.txt
+organization	83.txt
+organizational	83.txt 82.txt
+original	57.txt   
+originally	58.txt
+orleans	24.txt
+osce	67.txt 
+other	67.txt 24.txt 41.txt 14.txt 9.txt 76.txt 82.txt 90.txt 43.txt 96.txt 79.txt 52.txt  45.txt
+others	64.txt 29.txt
+otherwise	50.txt
+our	97.txt 34.txt 87.txt   67.txt 81.txt 77.txt 23.txt 62.txt 51.txt 69.txt 40.txt 96.txt 56.txt   72.txt 59.txt    16.txt  8.txt 52.txt 79.txt  12.txt
+ourselves	40.txt
+out	24.txt 51.txt 81.txt 61.txt 23.txt 98.txt
+out-of-class	100.txt
+outcome	30.txt
+outcomes	61.txt 22.txt 79.txt
+outliers	2.txt      
+outline	25.txt 72.txt
+outlined	49.txt
+outlining	57.txt
+outperforms	34.txt
+output	85.txt
+output-based	99.txt
+over	57.txt 31.txt 5.txt 94.txt 55.txt 23.txt   87.txt 24.txt 32.txt 91.txt  8.txt  
+overall	99.txt 64.txt
+overarching	33.txt
+overcome	84.txt 63.txt
+overcoming	1.txt
+overfull	6.txt
+overlap	56.txt
+overlooked	29.txt
+overly	21.txt
+overshadow	31.txt
+overview	1.txt 19.txt 33.txt 13.txt
+overviews	17.txt
+own	17.txt 32.txt 71.txt   19.txt 84.txt 52.txt
+p	94.txt
+paas	7.txt
+pace	65.txt
+package	90.txt  59.txt  
+page	40.txt 
+paid	91.txt 89.txt
+pairs	52.txt
+pakistan's	7.txt
+palo	40.txt
+paper	13.txt 55.txt 97.txt 31.txt 34.txt 57.txt 58.txt 11.txt  41.txt 39.txt 21.txt  10.txt  59.txt  20.txt 82.txt  68.txt    87.txt 54.txt 76.txt 42.txt   98.txt 77.txt 51.txt 18.txt    91.txt   84.txt 48.txt 22.txt  12.txt 29.txt  70.txt  36.txt  64.txt 16.txt 28.txt 85.txt 35.txt
+papers	57.txt 20.txt
+paradigm	31.txt 30.txt 33.txt 6.txt
+parallel	59.txt  98.txt 27.txt
+parameter	57.txt 51.txt 2.txt   3.txt
+parameters	57.txt  35.txt 8.txt 2.txt 
+parc	40.txt 
+parity	76.txt 
+part	72.txt 47.txt 61.txt 80.txt
+partial	45.txt 40.txt 52.txt
+partially	45.txt
+participants	100.txt 64.txt      
+participants’	64.txt 20.txt
+participated	87.txt
+particle	3.txt
+particular	56.txt 41.txt 32.txt 22.txt
+particularly	79.txt
+partner	64.txt
+parts	47.txt 45.txt
+past	76.txt 24.txt 31.txt 12.txt 30.txt
+pathologist's	27.txt
+pathologists	27.txt
+pathology	27.txt     
+patient	26.txt 5.txt 22.txt 4.txt 31.txt
+patients	32.txt
+patient–doctor	32.txt
+pattern	64.txt 89.txt 50.txt 11.txt     85.txt
+patterns	85.txt  14.txt 21.txt 79.txt 99.txt
+paving	33.txt
+pay-as-you-go	8.txt
+pedagogical	93.txt
+peer-to-peer	52.txt
+penalize	2.txt
+people	86.txt
+per	60.txt 59.txt 62.txt 48.txt
+per-pixel	69.txt
+perceive	74.txt
+perceived	41.txt 15.txt 
+percentage	92.txt 57.txt 
+percents	35.txt
+percents’	35.txt
+perception	74.txt 88.txt
+perceptions	15.txt 
+perfo	11.txt
+perform	87.txt
+performance	87.txt 52.txt      64.txt  58.txt   3.txt 10.txt 66.txt   84.txt 70.txt 99.txt  94.txt 28.txt
+performed	64.txt 58.txt 9.txt  14.txt 66.txt
+performing	23.txt 
+performs	97.txt
+perhaps	76.txt
+period	56.txt
+peripheral	62.txt  
+personal	33.txt
+perspective	6.txt 99.txt
+pervasive	52.txt   54.txt
+petroleum	47.txt
+pg	35.txt
+phase	37.txt 69.txt 
+phase-only	69.txt
+phases	6.txt
+phenomenon	37.txt
+phenotypes	31.txt
+photo	42.txt
+photo-realistic	34.txt
+photographic	34.txt 35.txt 
+photoshop	42.txt 
+phvdsn	3.txt 
+physical	26.txt  16.txt
+physicians	66.txt 26.txt
+physics	50.txt 
+physiochemical	58.txt
+pi	96.txt   
+picture	34.txt
+pieces	53.txt
+piecewise-polynomial	53.txt
+pioneer	30.txt
+pipeline	69.txt 36.txt
+pirna	58.txt   
+pirnas	58.txt
+pitfalls	22.txt
+piwi	58.txt
+place	48.txt
+placement	85.txt
+plan	21.txt
+plane	45.txt
+planning	28.txt
+plastic	65.txt
+platform	97.txt    41.txt 4.txt
+platforms	77.txt 41.txt 
+play	58.txt
+played	12.txt
+player	55.txt 16.txt
+players	55.txt 95.txt
+playing	93.txt
+plays	11.txt
+plurality	90.txt
+point	76.txt 86.txt 62.txt 
+points	2.txt
+poised	22.txt
+policies	4.txt 94.txt
+policy	29.txt
+policy-makers	5.txt
+political	92.txt
+pollinating	79.txt
+polymorphic	90.txt
+polynomials	59.txt 
+polyvocal	20.txt
+pooling	34.txt
+popular	73.txt 92.txt 30.txt
+popularity	76.txt
+population	57.txt 94.txt
+posed	94.txt 76.txt 84.txt
+posing	100.txt
+position	12.txt
+positions	45.txt 
+possibilities	27.txt 29.txt 85.txt 66.txt
+possible	96.txt 87.txt 50.txt 73.txt  91.txt 37.txt
+posterior	45.txt 
+posttest	93.txt
+posttests	93.txt
+potential	32.txt 10.txt 33.txt 29.txt 79.txt 31.txt   59.txt 74.txt 82.txt  27.txt 63.txt   36.txt 57.txt 43.txt 94.txt
+potentially	49.txt
+power	49.txt 71.txt 32.txt 28.txt
+powered	30.txt
+powerful	37.txt 42.txt
+powerpoint	16.txt
+practical	15.txt 2.txt 80.txt 19.txt 1.txt
+practically	98.txt
+practice	66.txt 45.txt 17.txt 74.txt 99.txt 27.txt 25.txt 77.txt
+practiced	77.txt
+practices	79.txt 98.txt 82.txt 48.txt 76.txt 
+practitioners	12.txt 19.txt 83.txt 20.txt 
+pre-	93.txt
+pre-trained	9.txt
+precedence	14.txt
+preceding	23.txt  
+precision	31.txt   21.txt 81.txt 22.txt
+preclinical	67.txt
+preconditioners	60.txt
+predict	34.txt 87.txt 
+predictable	23.txt 
+prediction	51.txt 31.txt 30.txt
+predictive	22.txt 7.txt
+predictors	58.txt
+predominantly	32.txt
+preemptive	85.txt
+preparatory	20.txt
+prepared	40.txt
+preprocessing	9.txt
+presence	15.txt 2.txt 64.txt  
+present	62.txt  72.txt 66.txt 42.txt 39.txt 41.txt 30.txt 59.txt 71.txt 96.txt 20.txt 69.txt
+presentation	16.txt
+presented	39.txt 47.txt 36.txt
+presently	66.txt 57.txt
+presents	39.txt 64.txt 2.txt 71.txt 74.txt 72.txt 10.txt 61.txt 34.txt 19.txt 48.txt 91.txt
+preserving	51.txt
+president	89.txt
+presidential	89.txt
+press	40.txt
+prevent	98.txt 70.txt
+prevention	89.txt 
+previous	62.txt 51.txt 100.txt 10.txt 4.txt 56.txt 43.txt
+previously	43.txt 64.txt 65.txt 25.txt
+primal-dual	55.txt 
+primary	14.txt 93.txt 70.txt
+primordial	29.txt
+principle	85.txt 42.txt
+principles	40.txt 69.txt 87.txt 78.txt 
+print	42.txt   
+printers	40.txt
+printing	40.txt 
+prior	14.txt 3.txt 93.txt
+privacy	9.txt 32.txt 92.txt 4.txt
+privacy-preserved	9.txt
+pro	14.txt
+probabilities	34.txt 50.txt
+problem	57.txt 44.txt 78.txt 31.txt  55.txt 28.txt 56.txt  97.txt 98.txt 
+problem-solving	98.txt 100.txt     77.txt 99.txt
+problems	100.txt 76.txt  39.txt 2.txt 57.txt 37.txt 21.txt 17.txt 59.txt  41.txt 66.txt 92.txt 11.txt 48.txt 10.txt 73.txt 94.txt
+problem—and	24.txt
+problem”	93.txt 
+procedure	49.txt
+procedures	26.txt 66.txt   87.txt
+process	99.txt  51.txt 2.txt 69.txt 97.txt 32.txt 54.txt 
+processed	54.txt
+processes	49.txt 79.txt  17.txt 31.txt 48.txt
+processing	54.txt 1.txt 42.txt 29.txt 71.txt 89.txt 5.txt    46.txt      30.txt 37.txt  41.txt 10.txt 96.txt 11.txt
+processor	49.txt 
+processors	49.txt 59.txt
+produce	40.txt
+produced	17.txt
+produces	35.txt
+producing	78.txt
+product	48.txt  6.txt
+production	82.txt 63.txt
+production-ready	82.txt
+productivity	32.txt
+products	96.txt 73.txt
+professional	46.txt 5.txt 47.txt 
+professionals	7.txt
+profile	87.txt
+profiles	92.txt  
+profits	52.txt
+prognosis	30.txt
+program	98.txt 99.txt 97.txt
+programing	97.txt 98.txt   94.txt 100.txt   93.txt   99.txt     96.txt 
+programming	96.txt  98.txt   76.txt   97.txt 94.txt 71.txt  43.txt 99.txt  87.txt    
+programs	86.txt
+program”	93.txt 
+progress	93.txt   67.txt 30.txt 25.txt 
+progresses	1.txt 70.txt 23.txt
+progression	23.txt
+project	78.txt 40.txt
+projection	51.txt 69.txt
+projections	40.txt
+projector	62.txt
+projector-based	62.txt
+projects	82.txt  
+proliferation	33.txt
+prominent	92.txt 12.txt 8.txt
+promise	65.txt
+promising	33.txt 11.txt 59.txt 74.txt 82.txt 73.txt   10.txt 83.txt
+promote	32.txt
+promotes	42.txt
+promoting	29.txt 10.txt
+proof	26.txt
+proper	57.txt
+properties	85.txt 53.txt 58.txt
+proportional	94.txt 
+proposal	1.txt
+proposals	28.txt 92.txt
+propose	52.txt  55.txt 54.txt 50.txt 15.txt 99.txt
+proposed	99.txt 55.txt 11.txt 35.txt  13.txt 60.txt 2.txt        70.txt  97.txt  58.txt     51.txt      34.txt 43.txt
+proposes	97.txt 9.txt 89.txt 18.txt 58.txt 29.txt
+proposing	43.txt 12.txt
+prospect	29.txt
+prospects	29.txt
+prosthetic	45.txt 
+protecting	58.txt
+protection	88.txt
+protocol	49.txt 38.txt
+protocols	24.txt
+prototype	40.txt
+prototypes	69.txt 62.txt
+prove	60.txt
+proven	82.txt 83.txt 73.txt
+provide	57.txt  99.txt 38.txt 35.txt 33.txt 52.txt 17.txt 64.txt 68.txt 77.txt 14.txt 19.txt 69.txt 37.txt
+provided	61.txt 53.txt 
+provides	71.txt 99.txt  65.txt 12.txt 85.txt 8.txt  48.txt 4.txt 22.txt 
+providing	23.txt 17.txt 74.txt 90.txt 5.txt
+province	25.txt
+pso	3.txt  
+psychological	64.txt
+psychology	24.txt
+public	4.txt
+publication	24.txt
+publications	61.txt 70.txt
+publicly	9.txt
+publics	91.txt
+published	70.txt 40.txt 57.txt 20.txt 68.txt
+publisher	40.txt
+publishing	40.txt   
+pubmed	66.txt
+pupil	62.txt
+pupils	93.txt 
+purpose	81.txt 73.txt 13.txt 79.txt 52.txt 57.txt 47.txt
+pursue	52.txt
+pursued	93.txt
+push	33.txt
+pushes	33.txt
+puzzles	87.txt
+python	96.txt 59.txt 
+qos	41.txt
+qse	49.txt 
+quadratic	56.txt
+qualitative	81.txt  61.txt 84.txt
+qualitatively	99.txt
+qualities	11.txt 57.txt
+quality	74.txt 87.txt 86.txt 31.txt
+quantified	70.txt
+quantitative	81.txt
+quantitatively	50.txt
+quantum	88.txt 49.txt      
+quaternion	35.txt 
+qubits	49.txt
+queryable	85.txt
+quest	14.txt
+question	20.txt
+questions	100.txt 87.txt
+quick	7.txt
+quitters	99.txt
+qwt	35.txt  
+rach’s	59.txt
+radio	54.txt
+radiology	27.txt
+raising	8.txt
+ran	87.txt
+random	91.txt 57.txt
+range	50.txt 26.txt 14.txt 43.txt
+ranging	41.txt
+rapid	8.txt 65.txt  32.txt 42.txt 44.txt 28.txt 30.txt
+rapidly	57.txt 46.txt 48.txt
+rare	50.txt  5.txt
+raspberry	96.txt   
+raspberry-pi	96.txt
+raspbian	96.txt
+raster	40.txt 
+rate	67.txt 86.txt
+rates	31.txt
+rather	52.txt 21.txt 23.txt 82.txt
+rationale	28.txt
+rbm	3.txt
+re-extraction	11.txt
+re-identify	92.txt
+reachability	85.txt
+reached	82.txt 100.txt
+reading	66.txt
+readmission	31.txt
+ready	11.txt
+real	43.txt 2.txt  65.txt  51.txt 34.txt 18.txt 
+real-life	30.txt
+real-time	18.txt 94.txt  6.txt 69.txt
+real-world	13.txt 43.txt
+realising	77.txt
+reality	71.txt      74.txt  72.txt           68.txt     70.txt  64.txt        95.txt  62.txt   69.txt  18.txt  66.txt       73.txt         43.txt   65.txt          67.txt     61.txt      63.txt 
+realityvirtual	72.txt
+reality–related	65.txt
+reality—1	72.txt
+reality”	66.txt
+realizations	60.txt
+realize	63.txt 52.txt
+realized	40.txt
+realtime	88.txt
+realty	65.txt
+reasoning	43.txt
+reasons	7.txt
+recall	81.txt
+receive	15.txt 33.txt
+received	40.txt 90.txt
+receiving	90.txt
+recent	66.txt 28.txt 68.txt 1.txt 84.txt 57.txt   37.txt  21.txt  25.txt  92.txt 82.txt  46.txt 33.txt   34.txt
+recently	21.txt 5.txt  50.txt 37.txt 84.txt 63.txt 86.txt 33.txt 92.txt 65.txt 54.txt 67.txt
+recognised	76.txt
+recognition	13.txt  9.txt   11.txt             28.txt 16.txt  18.txt    
+recognized	33.txt
+recommendation	33.txt 1.txt
+recommendations	73.txt 89.txt
+reconstructing	51.txt
+reconstruction	51.txt
+recorded	20.txt 3.txt
+records	26.txt
+reduce	11.txt 31.txt 54.txt 46.txt 49.txt
+reduced	36.txt
+reducing	11.txt 32.txt
+reduction	94.txt 57.txt
+redundant	11.txt
+refactoring	87.txt
+reference	6.txt
+references	66.txt
+refers	52.txt 44.txt
+refined	55.txt
+refinements	53.txt
+reflect	76.txt 83.txt
+reflection	26.txt 84.txt
+reflections	17.txt
+reformulate	55.txt
+regarding	66.txt 79.txt 57.txt 95.txt 39.txt 17.txt 89.txt 80.txt
+region	62.txt  46.txt
+regression	51.txt   36.txt   2.txt     
+regressions	36.txt
+regularization	51.txt 
+regulation	58.txt
+regulations	4.txt
+related	29.txt 91.txt  79.txt 22.txt  50.txt 96.txt 39.txt 17.txt 87.txt 61.txt
+relations	56.txt
+relationship	11.txt 32.txt
+relative	45.txt  23.txt 92.txt     
+relatively	98.txt
+relatives	92.txt
+relaxed	56.txt
+relay	62.txt
+relayed	62.txt
+relays	96.txt
+release	76.txt
+releasing	76.txt
+relevance	45.txt
+relevant	70.txt 66.txt 22.txt  85.txt 17.txt
+reliability	11.txt 84.txt 100.txt 8.txt
+reliable	67.txt 18.txt
+relies	53.txt 52.txt
+rely	76.txt
+remained	45.txt
+remaining	69.txt
+remains	32.txt
+remarkable	63.txt
+remote	38.txt   96.txt
+remoted	38.txt 
+removing	66.txt 64.txt
+rendering	62.txt
+rented	7.txt
+repeated	83.txt
+repeating	56.txt
+replace	13.txt 23.txt
+replaced	45.txt
+replacement	45.txt  23.txt  
+replaces	23.txt
+replacing	44.txt
+replicated	24.txt 64.txt
+replication	24.txt
+report	84.txt 20.txt 65.txt 39.txt
+reported	45.txt 8.txt 63.txt 64.txt 20.txt
+reporting	14.txt
+reports	14.txt 7.txt 90.txt   68.txt
+represent	36.txt 99.txt 
+representation	99.txt 56.txt 
+representative	41.txt 52.txt
+represented	26.txt
+representing	36.txt
+represents	53.txt
+reproduce	24.txt
+reproducibility	24.txt 
+request	44.txt 8.txt
+requests	8.txt
+require	26.txt 40.txt
+required	49.txt 23.txt 36.txt 58.txt
+requirement	4.txt 44.txt 28.txt 27.txt
+requirements	16.txt 41.txt 89.txt
+requires	49.txt 43.txt 48.txt 31.txt
+requiring	86.txt
+research	43.txt  61.txt 7.txt 77.txt 74.txt  24.txt 39.txt  91.txt 12.txt     68.txt  40.txt   33.txt    37.txt   11.txt 70.txt  95.txt 78.txt  57.txt 28.txt  64.txt 96.txt   85.txt 10.txt   15.txt 100.txt 82.txt     73.txt 83.txt 20.txt 84.txt  19.txt
+researchers	19.txt  43.txt 8.txt 7.txt 61.txt 24.txt 12.txt 84.txt 57.txt  20.txt  
+researches	73.txt
+research‐oriented	39.txt
+reshaping	86.txt 23.txt
+residents	11.txt
+residual	36.txt  
+resist	45.txt
+resisted	45.txt 
+resizing	36.txt
+resolution	94.txt  62.txt   69.txt
+resolve	94.txt
+resolved	76.txt
+resource	17.txt 8.txt  10.txt 
+resource-hungry	10.txt
+resources	10.txt 17.txt 49.txt 89.txt  37.txt 8.txt   
+respectively	58.txt 9.txt
+respond	6.txt
+responding	100.txt
+response	8.txt 44.txt 63.txt
+responsible	81.txt
+restrict	6.txt
+restricted	1.txt 3.txt
+restricting	58.txt
+result	73.txt 72.txt 93.txt 100.txt 97.txt 86.txt 31.txt 67.txt
+resulted	49.txt 33.txt
+resulting	87.txt 62.txt
+results	73.txt 58.txt  23.txt  71.txt  66.txt  14.txt 59.txt 92.txt 93.txt  99.txt 98.txt 36.txt  100.txt 24.txt 70.txt   52.txt 46.txt  7.txt 87.txt 16.txt 11.txt 54.txt 35.txt 83.txt 82.txt
+retina	69.txt
+retribution	88.txt 
+revealed	99.txt 2.txt
+reveals	74.txt 7.txt
+review	14.txt    8.txt 30.txt 27.txt 66.txt    43.txt 19.txt 77.txt 5.txt 61.txt    67.txt 95.txt   70.txt  91.txt 68.txt   10.txt 12.txt 33.txt 26.txt 25.txt 57.txt 13.txt 
+reviewed	14.txt 61.txt   5.txt
+reviews	5.txt 29.txt 57.txt  22.txt  
+revolution	86.txt 96.txt  41.txt
+revolving	86.txt
+rewrite	40.txt
+rhetoric	95.txt 
+rhetorical	95.txt
+rich	42.txt 
+rift	80.txt
+risk	3.txt 67.txt 48.txt
+risks	91.txt 92.txt  4.txt
+river	94.txt
+rml	9.txt
+rna	58.txt  
+road	80.txt
+robot	21.txt 44.txt    
+robota	26.txt
+robotic-assisted	26.txt
+robotics	26.txt
+robots	26.txt   21.txt
+robust	2.txt    3.txt 36.txt 16.txt 11.txt
+robustness	36.txt 83.txt
+role	58.txt 27.txt 39.txt  45.txt   12.txt 31.txt 11.txt
+roles	48.txt
+room	65.txt 
+rotation	64.txt 36.txt
+routine	66.txt
+rssp	38.txt
+rssp”	38.txt
+rt	21.txt
+rule	94.txt 58.txt
+run	91.txt 50.txt
+running	76.txt 86.txt 33.txt 97.txt
+russian	89.txt   
+saas	7.txt
+safety	4.txt 66.txt  5.txt
+sagittal	45.txt
+sales	40.txt
+same	43.txt 62.txt 38.txt    60.txt 72.txt 91.txt
+sample	2.txt
+samples	51.txt 
+sampling	50.txt
+sat	64.txt
+satisfaction	98.txt 4.txt
+saying	86.txt
+scaffolding	99.txt 61.txt
+scale	92.txt
+scales	48.txt
+scanning	62.txt
+scara	44.txt
+scarce	94.txt
+scenario	41.txt
+scenarios	41.txt 71.txt 2.txt
+scenes	43.txt 
+scheduling	8.txt         52.txt
+scheme	34.txt 9.txt 18.txt 35.txt  
+scholars	95.txt
+scholarship	95.txt 17.txt
+schools	73.txt 93.txt
+science	78.txt 83.txt 59.txt 14.txt   61.txt 100.txt 31.txt 26.txt
+sciences	68.txt 19.txt
+scientific	73.txt  27.txt 50.txt
+scientists	29.txt
+scope	59.txt
+scopus	14.txt 66.txt
+scores	93.txt 87.txt
+scratch	87.txt  98.txt 
+sdcc	10.txt    
+sdcc-related	10.txt
+sdn	10.txt
+se	80.txt  79.txt    
+seamless	4.txt
+seamlessly	18.txt
+search	66.txt 57.txt          15.txt
+searching	66.txt 14.txt
+seat	64.txt 
+seats	64.txt
+second	95.txt 40.txt  58.txt 22.txt
+secondly	78.txt 58.txt
+secret	9.txt
+sector	4.txt
+sectors	32.txt
+secure	9.txt
+security	4.txt    91.txt       89.txt  90.txt     88.txt   10.txt 7.txt 32.txt 92.txt   
+see-through	63.txt 
+seed	56.txt 
+seeds	56.txt     
+seeking	77.txt
+seems	14.txt
+seen	23.txt 28.txt 32.txt
+segment	89.txt
+segmentation	46.txt          
+selected	22.txt  82.txt  1.txt 57.txt
+selecting	57.txt 90.txt 70.txt
+selection	36.txt 57.txt 22.txt
+self-idea	21.txt
+semg	11.txt     
+semla	80.txt
+send	15.txt
+sensing	41.txt 52.txt 12.txt     
+sensitive	2.txt
+sensitivity	24.txt
+sensor	18.txt
+sensors	71.txt 4.txt 29.txt
+sentiment	81.txt   84.txt   
+sentistrength-se	81.txt 
+separate	64.txt 40.txt
+separated	3.txt
+september	20.txt
+sequence	100.txt
+sequences	58.txt
+sequentially	45.txt
+series	11.txt 69.txt
+serve	57.txt
+served	90.txt 
+server	90.txt     38.txt
+servers	85.txt 
+service	85.txt 8.txt 6.txt 7.txt   23.txt      
+services	85.txt   10.txt 7.txt   33.txt  6.txt 8.txt  54.txt
+session	38.txt  3.txt 
+sessions	3.txt 38.txt
+set	40.txt 55.txt 61.txt 41.txt 53.txt 35.txt 26.txt 48.txt  82.txt  93.txt
+sets	55.txt 2.txt  
+setting	57.txt 27.txt
+settings	68.txt    57.txt  82.txt
+setup	18.txt
+setups	4.txt
+seven	82.txt 7.txt
+several	59.txt  17.txt 46.txt 11.txt 66.txt 31.txt 57.txt 
+severely	94.txt
+shape	17.txt 42.txt
+share	27.txt 55.txt
+shared	55.txt
+sharing	100.txt 38.txt    9.txt
+shift	30.txt 31.txt
+shifts	23.txt
+shop	6.txt
+short	19.txt
+shortages	94.txt
+shorten	46.txt
+shortest	56.txt
+should	95.txt 23.txt 79.txt 74.txt 8.txt
+show	46.txt 87.txt 49.txt 55.txt 35.txt 58.txt 36.txt 42.txt 51.txt 70.txt  34.txt 3.txt 62.txt 52.txt 65.txt 50.txt 16.txt
+showed	98.txt 66.txt
+showing	63.txt
+shown	63.txt 15.txt
+shows	63.txt 97.txt
+shuffle	16.txt
+signal	9.txt  11.txt
+signals	11.txt  9.txt   3.txt 
+signatures	89.txt 92.txt
+significance	11.txt
+significant	46.txt 99.txt 91.txt 40.txt 93.txt 73.txt 83.txt 58.txt  92.txt 52.txt
+significantly	87.txt 64.txt 81.txt 36.txt 62.txt
+similar	2.txt 61.txt 45.txt 43.txt 53.txt
+similar-sounding	72.txt
+simple	64.txt 59.txt 53.txt  92.txt
+simplest	96.txt
+simplifies	11.txt
+simply	74.txt
+simulated	62.txt 46.txt 45.txt 
+simulation	44.txt 2.txt 61.txt
+simulations	49.txt 55.txt 50.txt 
+simulator	67.txt
+simulators	73.txt
+simultaneously	67.txt 14.txt 87.txt
+since	14.txt 76.txt  77.txt 43.txt 41.txt 11.txt 
+single	69.txt 95.txt
+sit	64.txt
+site	15.txt 
+sitting	64.txt
+situations	2.txt
+six	72.txt 58.txt
+sixth	93.txt
+size	82.txt
+sizes	2.txt
+sketchbooks	26.txt
+skill	67.txt 
+skilled	82.txt
+skills	43.txt 71.txt  93.txt  48.txt 23.txt 
+slack	45.txt
+slide	27.txt 
+slide-based	27.txt
+slides	27.txt 16.txt
+slope	11.txt
+slovenia	93.txt
+small	58.txt
+smart	76.txt             75.txt 4.txt 86.txt 11.txt  29.txt   
+smells	87.txt
+smooth	44.txt 53.txt
+smyth	56.txt
+so	4.txt 19.txt 96.txt 52.txt  43.txt 79.txt 92.txt 59.txt 33.txt
+social	21.txt  96.txt 64.txt       68.txt 25.txt
+socialization	79.txt
+societal	26.txt
+society	29.txt
+softer”	23.txt
+software	87.txt     83.txt            81.txt  85.txt   79.txt  75.txt    100.txt  77.txt        13.txt 70.txt 42.txt        73.txt 76.txt        82.txt   78.txt   84.txt   48.txt    10.txt 59.txt  86.txt      80.txt   
+software-defined	10.txt   
+software-driven	10.txt
+solution	33.txt 52.txt 41.txt 55.txt 59.txt 65.txt
+solutions	91.txt 27.txt 77.txt 100.txt 70.txt 59.txt  41.txt 48.txt 92.txt
+solve	92.txt 56.txt 76.txt 52.txt
+solved	11.txt
+solvers	99.txt 60.txt
+solves	60.txt 21.txt
+solving	99.txt 73.txt 98.txt  59.txt
+somatic	58.txt
+some	1.txt  46.txt 23.txt 7.txt 83.txt 24.txt 96.txt  2.txt  31.txt 35.txt 85.txt 39.txt 27.txt 40.txt 76.txt 36.txt 73.txt 86.txt 57.txt 70.txt
+soon	40.txt
+sopka	89.txt 
+sort	86.txt
+sound	86.txt
+source	23.txt 69.txt 36.txt 76.txt
+space	53.txt 42.txt 80.txt
+spanning	33.txt
+sparse	51.txt 9.txt
+sparsity	51.txt
+spatial	43.txt 54.txt  69.txt
+special	13.txt 97.txt
+specialized	97.txt 29.txt 75.txt
+specialty	47.txt
+specific	97.txt 76.txt 10.txt 57.txt  82.txt 42.txt
+specifically	95.txt  87.txt 33.txt 21.txt 91.txt 84.txt 50.txt 41.txt
+specificity	76.txt
+specifies	23.txt
+spectra	49.txt
+spectrum	36.txt
+speech	1.txt  14.txt 28.txt 9.txt 
+speed	59.txt
+speedup	59.txt
+splines	53.txt  
+splitting	55.txt 
+squared	2.txt
+squares	2.txt
+st-coda	54.txt  
+stability	58.txt 60.txt
+stable	60.txt
+stacking	3.txt  
+staff	4.txt 40.txt
+stage	26.txt 23.txt 33.txt 11.txt
+stages	48.txt
+staggering	86.txt
+stakeholders	77.txt 94.txt
+standard	69.txt 58.txt 53.txt
+standardized	76.txt
+standards	93.txt
+star-ratings	74.txt
+start	82.txt
+started	96.txt 26.txt 84.txt
+starting	67.txt 50.txt
+starts	28.txt
+startup	48.txt
+startups	48.txt  
+state	8.txt 38.txt 10.txt 70.txt 68.txt 34.txt 89.txt 
+state-of-	58.txt
+state-of-the-art	28.txt 6.txt 3.txt 81.txt 9.txt 11.txt 13.txt
+stated	56.txt
+states	21.txt 49.txt   52.txt
+static	16.txt
+station	96.txt
+stationary	12.txt
+statistical	99.txt  50.txt
+statistics	31.txt 26.txt
+status	30.txt
+stem	61.txt    
+step	60.txt  
+step-sizes	55.txt
+stepping	8.txt
+steps	100.txt
+still	33.txt 82.txt 97.txt 11.txt 70.txt  37.txt 64.txt 73.txt
+stimulate	33.txt 6.txt 12.txt
+stochastic	52.txt
+stone	8.txt
+storage	52.txt 6.txt 27.txt 32.txt 10.txt 31.txt 4.txt
+stores	74.txt
+stories	83.txt 
+story	40.txt 
+strategic	83.txt 28.txt
+strategies	61.txt  100.txt  26.txt
+strategy	100.txt
+strengthen	11.txt
+stress	41.txt
+stressed	94.txt
+stretched	45.txt 
+stringy	4.txt
+strives	12.txt
+stroke	30.txt
+strong	93.txt 16.txt
+strongly	96.txt
+structure	96.txt 18.txt 48.txt 73.txt 44.txt 
+structured	30.txt  20.txt
+structures	63.txt 51.txt
+student	79.txt 
+students	79.txt 47.txt    48.txt 61.txt  87.txt   98.txt   100.txt  99.txt    67.txt 43.txt
+students'	61.txt 87.txt  99.txt   
+students’	71.txt
+studied	60.txt 46.txt 77.txt
+studies	77.txt 71.txt 17.txt  50.txt 51.txt 95.txt   66.txt     64.txt  68.txt 91.txt 61.txt   10.txt 100.txt 57.txt 70.txt
+studies’	95.txt
+study	70.txt 94.txt  93.txt 81.txt 76.txt  19.txt 74.txt  17.txt  48.txt 84.txt  11.txt 57.txt  64.txt   99.txt  73.txt  46.txt 100.txt 98.txt 61.txt 2.txt 
+studying	95.txt  50.txt
+sub-system	90.txt 
+subject	43.txt  57.txt 73.txt
+subjects	20.txt 3.txt
+subsequent	74.txt
+subspace	49.txt
+substantially	38.txt
+subtype	32.txt
+subwavelength	63.txt
+subword	56.txt 
+success	83.txt  67.txt 14.txt
+successes	39.txt
+successful	1.txt 29.txt 87.txt 
+successfully	48.txt
+such	87.txt 96.txt 76.txt  50.txt 8.txt 22.txt  81.txt 58.txt 42.txt 86.txt 41.txt 16.txt 94.txt 82.txt 43.txt  51.txt  73.txt 17.txt 61.txt   72.txt 74.txt 49.txt 26.txt 21.txt  37.txt  30.txt  46.txt
+sufficient	71.txt
+sufficiently	76.txt
+suggest	15.txt 2.txt 92.txt 43.txt 66.txt 37.txt
+suggesting	87.txt 64.txt
+suggestions	61.txt
+suggests	74.txt
+suitability	71.txt
+suitable	70.txt 2.txt  1.txt 57.txt
+suite	41.txt 
+suited	65.txt
+suites	41.txt
+sum	55.txt
+summarise	77.txt
+summarize	25.txt 91.txt
+summarized	1.txt
+summarizes	46.txt  28.txt
+summation	97.txt
+super-linear	59.txt
+superconducting-qubit-based	49.txt
+superhuman	28.txt
+superior	3.txt
+supervised	28.txt 22.txt
+supplement	40.txt
+support	41.txt 36.txt 73.txt  30.txt 77.txt 61.txt  9.txt
+supported	14.txt 
+supporting	62.txt 71.txt 82.txt 70.txt
+supports	79.txt 62.txt 21.txt
+surface	11.txt 
+surge	29.txt
+surgeon	26.txt
+surgeons	65.txt   66.txt
+surgery	66.txt  26.txt 67.txt  
+surgery”	66.txt
+surgical	66.txt   67.txt 65.txt 
+surprising	72.txt
+surprisingly	82.txt
+surroundings	14.txt
+surveillance	33.txt
+survey	33.txt  28.txt 13.txt   7.txt  4.txt  56.txt 37.txt 12.txt  1.txt 77.txt  30.txt 10.txt
+surveyed	1.txt
+sustainability	94.txt 29.txt
+sustainable	29.txt 4.txt 21.txt
+sutherland	40.txt
+svm	36.txt 18.txt
+swarm	3.txt
+switch	90.txt
+switching	100.txt
+symbolic	59.txt
+symposium	80.txt
+synchronous	15.txt
+synergy	27.txt
+syntax	99.txt
+synthesis	37.txt
+synthesizes	61.txt
+synthesizing	78.txt
+synthetic	2.txt 
+system	60.txt 63.txt 96.txt  52.txt 33.txt 97.txt 59.txt 44.txt 88.txt     16.txt  18.txt  85.txt  100.txt 26.txt 89.txt  91.txt 38.txt   90.txt   67.txt 11.txt 
+systematic	79.txt  14.txt  8.txt  70.txt  61.txt  10.txt 91.txt
+systematize	92.txt
+systems	85.txt 80.txt   28.txt 63.txt  60.txt 14.txt 40.txt 59.txt   33.txt  66.txt 1.txt 70.txt 25.txt 20.txt 26.txt 32.txt 38.txt  30.txt 82.txt   
+tackle	39.txt
+tackling	57.txt
+tailored	41.txt
+taiwan	100.txt
+take	48.txt 60.txt 23.txt
+taken	57.txt 86.txt
+takes	23.txt
+taking	82.txt
+talent	46.txt
+talents	46.txt
+talked	64.txt
+target	97.txt
+targeted	26.txt
+targets	79.txt
+task	52.txt 64.txt    23.txt 
+tasks	23.txt       64.txt 8.txt 13.txt 28.txt 96.txt  93.txt 51.txt 54.txt  33.txt 41.txt 77.txt
+tasks—mechanical	23.txt
+taxonomy	77.txt 19.txt 12.txt
+teach	87.txt  
+teacher	100.txt
+teachers	71.txt  
+teaches	47.txt
+teaching	47.txt  79.txt 87.txt 43.txt  
+team	48.txt 83.txt
+teams	24.txt 75.txt
+technical	11.txt 47.txt 70.txt 
+technique	8.txt 85.txt 92.txt
+techniques	8.txt   5.txt 13.txt 75.txt 40.txt 66.txt 30.txt  37.txt  49.txt 1.txt  10.txt 27.txt 12.txt 61.txt 31.txt  38.txt
+technological	29.txt 27.txt 65.txt
+technologies	40.txt 70.txt 11.txt  43.txt 72.txt 14.txt  7.txt 86.txt 71.txt  82.txt   17.txt 25.txt 29.txt  33.txt 73.txt
+technology	70.txt  21.txt      65.txt 42.txt 86.txt  96.txt   7.txt 14.txt 76.txt 47.txt 89.txt 82.txt   67.txt  29.txt 61.txt   46.txt   
+teleconnection	50.txt
+temporal	54.txt 
+ten	78.txt
+tend	91.txt
+term	26.txt   11.txt 77.txt
+terminologies	19.txt
+terminology	12.txt 
+terms	54.txt 70.txt 51.txt 72.txt 66.txt 31.txt
+test	51.txt  64.txt 60.txt 15.txt
+tested	18.txt
+testing	80.txt 92.txt 75.txt
+tests	74.txt 58.txt 45.txt
+text	40.txt
+textbooks	73.txt
+texts	84.txt
+texture	36.txt  42.txt
+than	50.txt 12.txt 21.txt 81.txt 15.txt 51.txt 100.txt 23.txt 9.txt 35.txt  58.txt 87.txt
+that	87.txt    36.txt 40.txt 99.txt 2.txt     57.txt 73.txt   46.txt 45.txt 69.txt  8.txt  21.txt  31.txt 55.txt 14.txt  74.txt  92.txt    95.txt 50.txt   83.txt 23.txt  60.txt  52.txt    79.txt  26.txt 54.txt 64.txt  43.txt 65.txt 39.txt  100.txt  16.txt  51.txt  96.txt 59.txt 86.txt    15.txt  93.txt 91.txt   58.txt  35.txt 19.txt 24.txt  20.txt   33.txt   37.txt 53.txt 30.txt 66.txt 47.txt 76.txt  27.txt  48.txt 49.txt  72.txt 25.txt 10.txt 98.txt 90.txt  34.txt 61.txt   32.txt 97.txt  82.txt
+the	82.txt           93.txt                       95.txt       46.txt               36.txt             81.txt    18.txt      22.txt    87.txt         85.txt     9.txt               73.txt                                                40.txt                    28.txt    78.txt     57.txt                         99.txt                                      92.txt     31.txt       69.txt   42.txt                  45.txt                   21.txt    77.txt                   74.txt      12.txt     71.txt              75.txt   14.txt           38.txt     55.txt      15.txt      64.txt                               83.txt  84.txt     50.txt    60.txt     70.txt            23.txt           54.txt           52.txt          44.txt           11.txt                    26.txt             79.txt                 63.txt     86.txt           65.txt           80.txt       13.txt      56.txt       43.txt           59.txt           16.txt     39.txt       100.txt                  96.txt                             51.txt                 27.txt                   19.txt   91.txt             89.txt                94.txt        35.txt         58.txt              33.txt                    24.txt       62.txt            20.txt               76.txt               53.txt      41.txt         37.txt         47.txt         30.txt     66.txt        97.txt    10.txt         72.txt   48.txt         49.txt         25.txt   68.txt        17.txt        32.txt        90.txt         29.txt              98.txt    61.txt            67.txt                 34.txt   
+the-art	58.txt
+their	58.txt   14.txt 46.txt  36.txt  85.txt 87.txt  73.txt 57.txt 71.txt    84.txt 64.txt  52.txt   54.txt 63.txt 26.txt   86.txt  39.txt 13.txt  19.txt     37.txt 10.txt 72.txt 98.txt   17.txt  25.txt 32.txt
+them	32.txt 46.txt 21.txt 85.txt  12.txt 19.txt 27.txt 4.txt 98.txt
+theme	42.txt 83.txt 80.txt
+themes	95.txt
+then	3.txt 81.txt 36.txt 22.txt 9.txt 46.txt 99.txt 77.txt  42.txt  55.txt 23.txt 19.txt 33.txt 30.txt 72.txt
+theoretical	15.txt  52.txt 35.txt 49.txt 19.txt
+theories	19.txt  52.txt
+theorizes	74.txt
+theory	74.txt 95.txt 14.txt 19.txt 23.txt    94.txt
+there	82.txt 21.txt 87.txt  73.txt  64.txt 43.txt 16.txt 59.txt 91.txt 41.txt 76.txt 33.txt 27.txt 37.txt 68.txt
+therefore	15.txt 43.txt 7.txt  
+thereof	28.txt
+these	28.txt 5.txt 57.txt 85.txt 58.txt 82.txt  92.txt 9.txt 32.txt 22.txt  39.txt 99.txt 71.txt 64.txt 100.txt 65.txt 26.txt 87.txt  63.txt 72.txt  37.txt 53.txt
+thesis	44.txt
+they	84.txt 50.txt 99.txt 65.txt 100.txt 14.txt 
+thing	73.txt
+things	4.txt   9.txt 96.txt  33.txt 29.txt
+think	100.txt
+thinking	99.txt 88.txt 98.txt   
+third	95.txt 22.txt
+third-level	71.txt
+third-year	100.txt
+this	100.txt 5.txt      43.txt  83.txt  93.txt  16.txt 18.txt 28.txt  21.txt 74.txt 80.txt 40.txt 73.txt  85.txt  46.txt     36.txt 75.txt 57.txt    69.txt 31.txt 92.txt 58.txt 94.txt   82.txt   13.txt  22.txt  99.txt  53.txt 68.txt  42.txt  87.txt   11.txt   77.txt  65.txt  63.txt 70.txt  32.txt   15.txt 95.txt   55.txt   39.txt 26.txt    98.txt  84.txt 54.txt 50.txt  44.txt 29.txt    33.txt    37.txt  19.txt   34.txt 51.txt  25.txt  72.txt  12.txt 67.txt    20.txt 91.txt     23.txt 96.txt    41.txt   97.txt 66.txt  49.txt 48.txt  61.txt   14.txt 76.txt  10.txt    35.txt 27.txt 17.txt  
+those	50.txt 2.txt 43.txt 93.txt 81.txt 80.txt 85.txt  45.txt 9.txt 64.txt 72.txt 91.txt 23.txt 61.txt
+though	95.txt
+thought	31.txt 25.txt
+threaded	15.txt
+threat	23.txt
+threatening	23.txt
+threats	92.txt 4.txt
+three	82.txt 32.txt 85.txt 84.txt 37.txt 30.txt 64.txt 35.txt
+three-dimensional	13.txt 
+threshold	71.txt
+through	2.txt 88.txt  16.txt 17.txt 18.txt 61.txt 36.txt 74.txt 58.txt 69.txt  70.txt 42.txt   60.txt 95.txt  55.txt 29.txt   76.txt 14.txt
+thus	2.txt 13.txt 79.txt 56.txt 20.txt 59.txt
+tibial	45.txt
+tiered	88.txt
+time	35.txt 52.txt 100.txt  36.txt 40.txt 46.txt 32.txt 23.txt 38.txt 11.txt        60.txt   54.txt 56.txt 
+time-sensitivity	48.txt
+times	46.txt  
+to	46.txt  48.txt        36.txt    45.txt    14.txt  25.txt 21.txt   59.txt    78.txt 50.txt      83.txt       71.txt   100.txt     52.txt     17.txt 43.txt   16.txt 35.txt   73.txt      94.txt     61.txt        80.txt  57.txt         75.txt 18.txt  81.txt 93.txt  60.txt      40.txt      79.txt       69.txt    68.txt  53.txt  22.txt     99.txt       32.txt     85.txt      87.txt        63.txt 58.txt   65.txt   77.txt          23.txt    86.txt   82.txt        13.txt       92.txt           11.txt      38.txt   70.txt        98.txt   39.txt     26.txt          54.txt   15.txt  27.txt  44.txt  47.txt 19.txt     33.txt          89.txt 84.txt     31.txt   34.txt  51.txt   76.txt    64.txt      24.txt    62.txt  55.txt 12.txt    67.txt    37.txt  91.txt             96.txt       66.txt        97.txt 41.txt           29.txt      49.txt    10.txt     30.txt   72.txt   90.txt    
+today's	26.txt 
+together	57.txt 80.txt 77.txt 82.txt  55.txt 37.txt
+took	14.txt 98.txt
+tool	50.txt 71.txt   81.txt   42.txt
+tools	81.txt 43.txt    83.txt 73.txt  75.txt 71.txt  37.txt 40.txt     84.txt   24.txt 82.txt 30.txt 10.txt
+topic	77.txt 70.txt 11.txt
+topics	39.txt  1.txt
+total	100.txt 87.txt 68.txt 66.txt  
+touch	13.txt
+touchlessin-air	14.txt
+toward	95.txt  15.txt 33.txt 31.txt
+towards	68.txt 29.txt 
+traces	84.txt
+track	16.txt 39.txt
+tracked	69.txt
+tracking	70.txt 62.txt  67.txt
+tradeoff	62.txt
+traditional	1.txt 58.txt 66.txt 76.txt
+traffic	52.txt 10.txt
+training	46.txt   3.txt 11.txt 66.txt 67.txt  51.txt 24.txt
+traininginference	33.txt
+trajectories	99.txt    
+transcribed	20.txt
+transfer	88.txt
+transferring	3.txt
+transform	35.txt  
+transformation	83.txt 90.txt
+transition	48.txt 23.txt
+translated	62.txt
+translates	16.txt
+translation	97.txt
+transmission	54.txt  
+transmitted	9.txt
+transparency	28.txt 32.txt
+transposable	58.txt
+traveling	62.txt 
+treatment	26.txt 66.txt 30.txt
+tree	99.txt 
+tremendous	33.txt 76.txt 31.txt
+trend	33.txt 22.txt 84.txt 95.txt
+trends	10.txt 73.txt 79.txt 77.txt 48.txt 4.txt  68.txt
+triage	83.txt
+tributary	94.txt
+true	42.txt 69.txt 27.txt
+truly	69.txt
+trust	28.txt 86.txt
+trusted	86.txt 
+trying	84.txt
+tuning	41.txt
+turn	62.txt 95.txt
+turning	64.txt 29.txt
+twin	6.txt
+two	46.txt 60.txt 10.txt 9.txt   100.txt 71.txt 50.txt 64.txt  58.txt 40.txt 15.txt 12.txt 26.txt
+two-dimensional	13.txt
+two-level	58.txt
+type	7.txt 5.txt 97.txt 72.txt 82.txt
+types	58.txt 1.txt 59.txt 46.txt 72.txt 4.txt 30.txt
+typical	46.txt 64.txt
+ubec	88.txt
+ubiquitous	12.txt
+ukrainian	73.txt  
+unavailability	6.txt
+unavoidable	11.txt
+uncertainties	60.txt
+uncertainty	48.txt 
+unconstrained	45.txt
+unconventional	39.txt
+under	60.txt 47.txt
+undergraduate	39.txt
+underlying	13.txt
+underpinning	14.txt
+underscored	79.txt
+understand	99.txt
+understanding	79.txt 37.txt 61.txt 31.txt 12.txt 91.txt
+undertaken	14.txt
+underutilized	8.txt 
+undoubtedly	65.txt
+unfortunately	97.txt 70.txt
+unified	59.txt 52.txt 69.txt
+unify	12.txt
+unifying	95.txt
+unique	26.txt 68.txt
+unit	67.txt
+united	21.txt
+universal	88.txt
+universities	73.txt
+university	47.txt 100.txt
+unleash	33.txt
+unprecedented	63.txt 57.txt 27.txt
+unpublished	24.txt
+unruled	86.txt
+unsafe	76.txt
+unsolved	97.txt 39.txt
+unstitched	45.txt
+unstretched	45.txt
+unstructured	30.txt 
+unsupervised	3.txt 22.txt
+unwise	20.txt
+up	41.txt 50.txt
+up-to-date	1.txt
+updated	90.txt  2.txt 76.txt
+uploads	92.txt
+upon	8.txt 14.txt 20.txt 56.txt 15.txt
+urban	11.txt 94.txt 29.txt   
+urban-industrial	94.txt
+urgent	33.txt
+urmia	94.txt 
+urologic	26.txt
+us	76.txt 37.txt 92.txt
+usability	64.txt 63.txt
+usage	18.txt 13.txt 57.txt
+usd	76.txt
+use	14.txt  71.txt   42.txt 43.txt  30.txt 92.txt 61.txt 73.txt     53.txt  11.txt    77.txt  26.txt  38.txt 94.txt 16.txt 27.txt 32.txt  40.txt  65.txt  49.txt 69.txt
+used	26.txt  57.txt  58.txt 82.txt 36.txt 79.txt 14.txt   91.txt 62.txt  92.txt   43.txt 87.txt 18.txt 67.txt 47.txt 61.txt 22.txt 31.txt 73.txt  56.txt 12.txt 44.txt 45.txt 60.txt 16.txt 41.txt 72.txt 32.txt
+useful	83.txt 85.txt 61.txt 41.txt
+usefulness	2.txt
+user	85.txt 69.txt 91.txt 18.txt 15.txt     41.txt 38.txt    13.txt   16.txt
+user-ar	70.txt
+user-friendly	59.txt
+users	64.txt 52.txt  71.txt  91.txt  8.txt 94.txt
+users’	91.txt
+uses	94.txt 92.txt 68.txt 34.txt 60.txt
+using	64.txt   7.txt 98.txt 58.txt  81.txt 36.txt  93.txt 62.txt  90.txt  43.txt   85.txt 80.txt 11.txt  50.txt 34.txt 92.txt 84.txt 73.txt 97.txt 89.txt    66.txt 68.txt 21.txt 72.txt 96.txt  
+utensils	73.txt
+utilisation	27.txt
+utilities	52.txt
+utility	26.txt
+utilization	8.txt 38.txt
+utilized	8.txt 
+valid	79.txt
+validate	85.txt
+validated	93.txt
+validity	59.txt
+valuable	35.txt 14.txt
+value	59.txt 64.txt 100.txt 26.txt 51.txt 
+values	51.txt 2.txt 
+variability	11.txt
+variable	60.txt
+variables	7.txt 55.txt 97.txt
+variant	57.txt
+variational	55.txt 49.txt
+variety	14.txt 58.txt 28.txt 37.txt 6.txt
+various	48.txt 18.txt 23.txt 30.txt 43.txt 10.txt 57.txt 4.txt 12.txt 21.txt 65.txt 40.txt
+varying	82.txt 90.txt  62.txt
+vast	37.txt
+vector	2.txt  36.txt 58.txt 30.txt 9.txt
+vedils	71.txt
+venue	33.txt
+versa	37.txt
+version	76.txt 56.txt
+versions	90.txt
+very	74.txt 5.txt
+vgm-bench	41.txt
+via	78.txt  58.txt 32.txt 55.txt 73.txt
+viable	48.txt
+vice	37.txt
+victims	92.txt 20.txt
+video	95.txt 96.txt  
+videoaudio	33.txt
+view	27.txt 43.txt 63.txt   69.txt 62.txt
+viewer's	62.txt
+viewpoint	4.txt
+village	14.txt
+vinci's	26.txt 
+vipnet	89.txt
+virtual	64.txt 43.txt 18.txt 67.txt  26.txt  65.txt     72.txt    69.txt  13.txt 95.txt
+virtuality	72.txt
+virtuality—as	72.txt
+virtualization	10.txt
+virtue	63.txt
+visible	3.txt 
+vision	63.txt 48.txt 1.txt  41.txt  37.txt    68.txt 69.txt
+visitor	17.txt
+visitors	17.txt
+visual	42.txt 71.txt  37.txt   45.txt 
+visualization	73.txt 66.txt
+vlc	16.txt
+voices	20.txt  
+volume	6.txt 
+vqe	49.txt 
+vr	67.txt    72.txt
+vulnerabilities	76.txt
+walk	57.txt
+wallet	76.txt
+warn	91.txt
+warning	91.txt 
+warnings	91.txt   
+was	20.txt 94.txt 93.txt       45.txt   77.txt 40.txt   14.txt   24.txt 26.txt  100.txt  
+wastage	8.txt
+water	94.txt          
+watson	30.txt
+wavelet	35.txt   
+waves	50.txt  
+way	39.txt 96.txt 100.txt 83.txt 59.txt 23.txt 67.txt
+ways	100.txt 23.txt 37.txt
+we	37.txt   50.txt   76.txt   66.txt 97.txt   60.txt 1.txt 56.txt 25.txt 15.txt    54.txt 30.txt   69.txt    99.txt   52.txt    8.txt 20.txt 33.txt     59.txt   39.txt  16.txt 81.txt   78.txt   43.txt 77.txt     75.txt 82.txt 87.txt        93.txt  63.txt 10.txt    51.txt 79.txt    53.txt 27.txt  23.txt  72.txt 84.txt  34.txt 62.txt   55.txt     40.txt    49.txt  21.txt   12.txt 41.txt 92.txt 
+wearable	12.txt
+wearables	4.txt
+wearing	64.txt
+web	90.txt   14.txt 86.txt
+websites	16.txt
+week	87.txt 24.txt
+weights	3.txt 2.txt
+well	2.txt 30.txt  8.txt 98.txt 4.txt 39.txt 20.txt 17.txt 83.txt 5.txt 40.txt
+well-functioning	82.txt
+well-known	4.txt
+were	66.txt    9.txt  25.txt 40.txt  45.txt 39.txt 64.txt 93.txt  92.txt 27.txt 94.txt 46.txt 100.txt   68.txt 14.txt 90.txt
+what	82.txt 99.txt
+when	37.txt 64.txt  2.txt 54.txt 14.txt 23.txt 100.txt 38.txt
+where	85.txt 76.txt 70.txt 53.txt 18.txt 28.txt  10.txt  54.txt 93.txt 65.txt
+whether	32.txt 66.txt 87.txt
+which	87.txt  65.txt 89.txt 11.txt   56.txt 60.txt 76.txt   15.txt 85.txt 70.txt 42.txt     16.txt  8.txt 59.txt   58.txt 43.txt  81.txt 86.txt 80.txt 40.txt 79.txt  63.txt 27.txt 44.txt 35.txt   62.txt 23.txt 94.txt  26.txt 29.txt 83.txt 55.txt 71.txt 41.txt
+while	64.txt 85.txt 15.txt 17.txt 45.txt 10.txt 29.txt  
+who	29.txt 64.txt 98.txt 20.txt   19.txt
+whole	34.txt
+whole-body	12.txt
+whole-slide	27.txt
+whose	41.txt 62.txt
+why	74.txt 82.txt
+wi-fi	96.txt
+wide	62.txt 50.txt 69.txt 28.txt 63.txt 
+widely	67.txt 11.txt 33.txt 77.txt 85.txt 14.txt
+widely-used	1.txt
+wider	26.txt
+widespread	71.txt
+width	2.txt 
+will	32.txt   31.txt 65.txt 96.txt   33.txt  42.txt   8.txt 54.txt 20.txt 23.txt  21.txt
+william	40.txt 
+wimp	13.txt
+windows	18.txt
+windowsiconsmenuspointers	13.txt
+wisdom	20.txt 
+wise	20.txt
+with	20.txt  18.txt 21.txt 2.txt    77.txt 82.txt     30.txt 88.txt 34.txt 90.txt 36.txt  71.txt    63.txt      62.txt  14.txt    25.txt 69.txt      16.txt 24.txt  53.txt 76.txt 99.txt   17.txt 37.txt  32.txt  27.txt 60.txt 52.txt   39.txt 42.txt 33.txt   65.txt 64.txt 57.txt 15.txt 59.txt  48.txt      98.txt  29.txt 58.txt    11.txt 86.txt 81.txt 13.txt   26.txt  93.txt          95.txt  41.txt  35.txt 73.txt   43.txt  92.txt  100.txt   49.txt  40.txt  23.txt 85.txt  61.txt   55.txt   28.txt   45.txt    94.txt     54.txt  51.txt    46.txt
+within	17.txt 6.txt 19.txt 93.txt 12.txt
+without	71.txt 82.txt 21.txt 52.txt 98.txt  49.txt 
+witnessed	33.txt
+wls	2.txt
+word	56.txt  26.txt
+work	71.txt 12.txt 20.txt 17.txt  36.txt 89.txt 34.txt 14.txt 63.txt 99.txt 37.txt 82.txt 97.txt 66.txt 8.txt 44.txt  75.txt 92.txt
+worked	7.txt
+workers	77.txt
+workflow	27.txt 32.txt  65.txt
+working	37.txt 73.txt 40.txt
+workload	8.txt
+works	19.txt 39.txt  73.txt
+workshop	20.txt  
+world	96.txt 18.txt 
+worldwide	4.txt 94.txt
+worse	64.txt
+would	69.txt 43.txt 50.txt 6.txt 40.txt  61.txt
+writing	20.txt 40.txt 
+wrote	20.txt
+x-space	2.txt
+xai	28.txt 
+xerox	40.txt
+y-space	2.txt
+years	70.txt 65.txt 82.txt 33.txt 87.txt  76.txt 68.txt 21.txt 92.txt 46.txt 4.txt 37.txt
+yet	96.txt 23.txt 17.txt 11.txt 76.txt
+yet-to-be-written	20.txt
+yielded	66.txt
+young	87.txt
+zarrineh-roud	94.txt 
+zero-database	88.txt
+zeros	55.txt
+zillions	33.txt
+×	62.txt
+özparlak’s	35.txt
+–	20.txt
+‘crowdsourcing’	77.txt
+≥90	69.txt

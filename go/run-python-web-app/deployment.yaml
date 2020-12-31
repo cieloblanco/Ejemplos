@@ -1,0 +1,23 @@
+piVersion: apps/v1
+kind: Deployment
+spec:
+        template:
+                metadata:
+                        labels:
+                                app: run-python
+                                tier: web
+                spec:
+                        containers:
+                        - name: run-python-app
+                          image: grc.io/<iddeproyecto>/run-python-app
+                          ports:
+                          - containerPort: 8080
+        selector:
+                matchLabels: 
+                        app: run-python
+                        tier: web
+metadata:
+        name: run-python-web
+        labels:
+                app: run-python
+                                

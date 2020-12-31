@@ -1,0 +1,1 @@
+Un bigrama es un par de palabras consecutivas

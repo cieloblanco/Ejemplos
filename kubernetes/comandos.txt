@@ -1,0 +1,82 @@
+EJM GUESTBOOK
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/guestbook
+
+gcloud config set project project-id
+gcloud config set compute/zone southamerica-east1-a
+
+gcloud container clusters create guestbook --num-nodes=4
+gcloud container clusters list
+gcloud container clusters describe guestbook
+
+gcloud container clusters get-credentials guestbook
+
+redis-leader-deployment.yaml
+
+kubectl apply -f redis-leader-deployment.yaml
+kubectl get pods
+kubectl logs deployment/redis-leader
+
+redis-leader-service.yaml
+kubectl apply -f redis-leader-service.yaml
+kubectl get service
+
+redis-follower-deployment.yaml
+kubectl apply -f redis-follower-deployment.yaml
+kubectl get pods
+kubectl logs deployment/redis-follower
+
+redis-follower-service.yaml
+kubectl apply -f redis-follower-service.yaml
+kubectl get service
+
+frontend-deployment.yaml
+kubectl apply -f frontend-deployment.yaml
+kubectl get pods -l app=guestbook -l tier=frontend
+
+frontend-service.yaml
+kubectl apply -f frontend-service.yaml
+
+kubectl get service frontend
+
+kubectl scale deployment frontend --replicas=5
+kubectl get pods	
+
+kubectl delete service frontend
+gcloud compute forwarding-rules list
+gcloud container clusters delete guestbook
+
+EJM HELLOWORLD
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+
+export PROJECT_ID=project-id
+
+docker build -t gcr.io/${PROJECT_ID}/hello-app:v1 .
+docker images
+docker run --rm -p 8080:8080 gcr.io/${PROJECT_ID}/hello-app:v1
+curl http://localhost:8080
+
+gcloud auth configure-docker
+docker push gcr.io/${PROJECT_ID}/hello-app:v1
+
+gcloud config set project $PROJECT_ID
+gcloud config set compute/zone southamerica-east1-a
+
+gcloud container clusters create hello-cluster
+gcloud compute instances list
+
+kubectl create deployment hello-app --image=gcr.io/${PROJECT_ID}/hello-app:v1
+
+kubectl scale deployment hello-app --replicas=3
+
+kubectl autoscale deployment hello-app --cpu-percent=80 --min=1 --max=5
+
+kubectl expose deployment hello-app --name=hello-app-service --type=LoadBalancer --port 80 --target-port 8080
+
+kubectl get service
+
+kubectl delete service hello-app-service
+
+gcloud container clusters delete hello-cluster
+
+gcloud container images delete gcr.io/${PROJECT_ID}/hello-app:v1  --force-delete-tags --quiet

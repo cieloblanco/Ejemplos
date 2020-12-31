@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+        name: nginx-deployment
+spec:
+        template:
+                metadata:
+                        labels:
+                                app: nginx
+                spec:
+                        containers:
+                        - name: nginx
+                          image: nginx
+                          ports:
+                          - containerPort: 80
+        replicas: 3
+        selector:
+                matchLabels:
+                        app: nginx
+
+apiVersion: v1
+kind: Service
+metadata: 
+        name: miservicio
+spec:
+        type: LoadBalancer
+        ports:
+                - protocol: TCP
+                  port: 80
+                  targetPort: 9243
+        selector:
+                app: miapp
+
+

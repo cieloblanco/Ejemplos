@@ -1,0 +1,2 @@
+Computer Graphics Simulation of Robot Arm Configuration
+The industry robot generally refers the robot, which is used in the mechanical manufacturing industry, replacing the human to complete the mass and high request work. This thesis is based on the structure of 4-DOF SCARA robot arm and investigates the problem of the analysis and optimization of the structure of robot arm according to the requirement of system for the rapid response and smooth work.

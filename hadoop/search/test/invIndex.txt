@@ -1,0 +1,3 @@
+grande 13.txt
+del 1.txt       7.txt 15.txt     24.txt
+arbol 1.txt 16.txt 

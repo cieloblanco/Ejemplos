@@ -1,0 +1,22 @@
+trabajar con javac 8
+
+bin/hdfs namenode -format
+sbin/start-dfs.sh
+sbin/start-yarn.sh
+
+bin/hadoop fs -mkdir /wordCount
+bin/hadoop fs -mkdir /wordCount/input
+
+bin/hadoop fs -put "/home/kevin/Documentos/hadoopEjm/wordCount/input/input.txt" /wordCount/input
+
+javac -classpath `bin/hadoop classpath` -d '/home/kevin/Documentos/hadoopEjm/wordCount/classes' '/home/kevin/Documentos/hadoopEjm/wordCount/WordCount.java'
+
+jar -cvf '/home/kevin/Documentos/hadoopEjm/wordCount/WordCount.jar' -C  '/home/kevin/Documentos/hadoopEjm/wordCount/classes' . 
+
+bin/hadoop jar '/home/kevin/Documentos/hadoopEjm/wordCount/WordCount.jar' WordCount /wordCount/input /wordCount/output
+
+bin/hadoop dfs -cat /wordCount/output/*
+
+
+
+

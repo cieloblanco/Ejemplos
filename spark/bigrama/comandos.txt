@@ -1,0 +1,5 @@
+mvn package
+
+spark-submit   --class "JavaPageRank"   --master local[4]   target/simple-project-1.0.jar input.txt output.txt 10
+
+spark-submit   --class "JavaPageRank" target/simple-project-1.0.jar input.txt output.txt 10
